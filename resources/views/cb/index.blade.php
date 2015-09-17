@@ -110,7 +110,7 @@
 					<div class="showcase-expand-wrapper"></div>
 				</div>
 				<div class="showcase-items">
-					
+					{!! $photography or '' !!}
 				</div>
 				<div class="view-more">
 					<span>View More</span>
@@ -141,7 +141,7 @@
 					<div class="showcase-expand-wrapper"></div>
 				</div>
 				<div class="showcase-items">
-					
+					{!! $creative or '' !!}
 				</div>
 				<div class="view-more">
 					<span>View More</span>
