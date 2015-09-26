@@ -18,11 +18,11 @@ $cb_routes = function(){
 };
 
 Route::group(array("domain" => "chadbishop.com"), $cb_routes);
-Route::group(array("domain" => "chadbishop2.local"), $cb_routes);
+Route::group(array("domain" => "chadbishop.local"), $cb_routes);
 
 $lb_routes = function(){
 	Route::controller('/', 'LightBridgeController');
 };
 
 Route::group(array("domain" => "ltbrdg.com"), $lb_routes);
-Route::group(array("domain" => "ltbrdg2.local"), $lb_routes);
+Route::group(array("domain" => "ltbrdg.local"), $lb_routes);
