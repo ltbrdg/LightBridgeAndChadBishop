@@ -1,4 +1,4 @@
-@extends('cb.layout')
+@extends($VIEW_PREFIX.'.layout')
 
 {{-- @section('title', 'Page Title') --}}
 
@@ -149,4 +149,12 @@
 			</div>
 		</div>
 	</section>
+@endsection
+
+@section('scripts')
+	{{-- INDEX SCRIPTS ONLY --}}
+	<script src="/js/lib/isotope/jquery.isotope.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/my-lib/showcase-control.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/my-lib/single-page-scroller.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/index.js" type="text/javascript" charset="utf-8"></script>
 @endsection

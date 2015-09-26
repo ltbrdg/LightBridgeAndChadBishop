@@ -54,7 +54,8 @@ return [
     |
     */
 
-    'from' => ['address' => null, 'name' => null],
+    // 'from' => ['address' => null, 'name' => null],
+    'from' => array('address' => 'noreply@ltbrdg.com', 'name' => 'Light Bridge'),
 
     /*
     |--------------------------------------------------------------------------

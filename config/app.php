@@ -147,6 +147,7 @@ return [
 
         // Matriphe\Imageupload\ImageuploadServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
+        Illuminate\Html\HtmlServiceProvider::class,
     ],
 
     /*
@@ -197,7 +198,9 @@ return [
         'View'      => Illuminate\Support\Facades\View::class,
 
         // 'Imageupload' => Matriphe\Imageupload\ImageuploadFacade::class,
-        'Image'     => Intervention\Image\Facades\Image::class
+        'Image'     => Intervention\Image\Facades\Image::class,
+        'Form'      => Illuminate\Html\FormFacade::class, 
+        'HTML'      => Illuminate\Html\HtmlFacade::class,
     ],
 
 ];
