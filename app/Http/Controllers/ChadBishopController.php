@@ -2,8 +2,6 @@
 
 namespace App\Http\Controllers;
 
-// use View;
-
 class ChadBishopController extends SiteController{
 	protected $creative_items = [
 		'world-cup-cancun-mexico'
