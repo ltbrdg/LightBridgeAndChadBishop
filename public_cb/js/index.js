@@ -4,9 +4,7 @@ $(function() {
 		
 	// sets most of the screen actions in motion
 	singlePageScroller('section > div.block','body > .wrapper > section','site-links',false);
-	// resize work & inspiration panels to start
-	photoShowCase = new ShowCase($('#photo-panel'));
-	createShowCase = new ShowCase($('#creative-panel'));
+
 	// slide to panel
 	$('#top-logo').click(function(){
 		panelManager.navClick(null,0);
@@ -34,6 +32,11 @@ $(function() {
     	// interval: 4000
     // });
 		
+});
+$(window).load(function(){
+	// initialize isotope showcase panels on load so that thumbnails will be loaded for sizing...
+	var photoShowCase = new ShowCase($('#photo-panel')),
+		createShowCase = new ShowCase($('#creative-panel'));
 });
 function processAction(event){
 	var $target,itemClass,$details;
