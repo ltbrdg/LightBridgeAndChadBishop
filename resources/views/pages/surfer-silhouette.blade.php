@@ -1,6 +1,6 @@
 @section('title', 'Surfer Silhouette')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world lifestyle')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392697757.jpg')

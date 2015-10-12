@@ -1,6 +1,6 @@
 @section('title', 'Dia De Los Muertos')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world lifestyle portrait')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1393915745.jpg')

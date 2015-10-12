@@ -1,6 +1,6 @@
 @section('title', 'The Road Less Travelled')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1423844122.jpg')

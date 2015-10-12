@@ -1,6 +1,6 @@
 @section('title', 'Waipio')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'travel photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389084657.jpg')

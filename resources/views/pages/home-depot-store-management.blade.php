@@ -1,6 +1,6 @@
 @section('title', 'Home Depot Store Management')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'commercial photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081908.png')

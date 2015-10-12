@@ -1,6 +1,6 @@
 @section('title', 'Diversity & Inclusion Microsite')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'interactive photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389082516.png')

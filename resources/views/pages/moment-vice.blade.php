@@ -1,6 +1,6 @@
 @section('title', 'Moment Vice')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'photography design')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389085172.jpg')

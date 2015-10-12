@@ -1,6 +1,6 @@
 @section('title', 'We Run')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'typography design illustration')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389084927.png')

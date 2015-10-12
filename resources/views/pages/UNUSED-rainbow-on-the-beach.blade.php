@@ -1,6 +1,6 @@
 @section('title', 'Rainbow on the Beach')
 
-{{--@section('categories', '?')--}}
+{{--@section('categories', '')--}}
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392697528.jpg')

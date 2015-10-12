@@ -1,6 +1,6 @@
 @section('title', 'Vista Family')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'portrait')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1395775420.jpg')

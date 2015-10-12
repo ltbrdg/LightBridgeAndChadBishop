@@ -1,6 +1,6 @@
 @section('title', 'Jazz Poster')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'photography print illustration')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389080342.jpg')

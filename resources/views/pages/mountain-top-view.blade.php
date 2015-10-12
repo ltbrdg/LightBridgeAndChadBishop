@@ -1,6 +1,6 @@
 @section('title', 'Mountain Top View')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392699247.jpg')

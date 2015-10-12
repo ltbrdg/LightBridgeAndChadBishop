@@ -1,6 +1,6 @@
 @section('title', 'Jean - Home Depot Associate')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'portrait commercial photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1393954040.jpg')

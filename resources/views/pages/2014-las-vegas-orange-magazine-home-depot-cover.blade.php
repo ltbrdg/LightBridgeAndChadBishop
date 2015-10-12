@@ -1,6 +1,6 @@
 @section('title', '2014 Las Vegas Orange Magazine Home Depot Cover')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'lifestyle portrait commercial')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1395774431.jpg')

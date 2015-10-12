@@ -1,6 +1,6 @@
 @section('title', 'You talking to me')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'typography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389085049.png')

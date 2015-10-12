@@ -1,6 +1,6 @@
 @section('title', 'Home Services')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'print photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081977.jpg')

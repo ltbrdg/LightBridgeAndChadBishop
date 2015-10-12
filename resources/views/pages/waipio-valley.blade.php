@@ -1,6 +1,6 @@
 @section('title', 'Waipio Valley')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world lifestyle photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392698464.jpg')

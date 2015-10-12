@@ -1,6 +1,6 @@
 @section('title', 'Welcome Card')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'photography print')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389082332.png')

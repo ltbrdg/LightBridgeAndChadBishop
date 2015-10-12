@@ -1,6 +1,6 @@
 @section('title', 'Running on the Beach')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world lifestyle commercial photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392698700.png')

@@ -1,6 +1,6 @@
 @section('title', 'Canvas')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'photography design illustration')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389084314.png')

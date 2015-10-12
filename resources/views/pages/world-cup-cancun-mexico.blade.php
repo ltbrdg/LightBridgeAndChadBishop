@@ -1,6 +1,6 @@
 @section('title', 'World Cup - Cancun, Mexico')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'video')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389079862.png')

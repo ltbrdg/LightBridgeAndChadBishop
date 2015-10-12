@@ -1,6 +1,6 @@
 @section('title', 'Letterpress Blocks')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1424712752.JPG')

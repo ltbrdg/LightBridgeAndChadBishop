@@ -1,6 +1,6 @@
 @section('title', 'Mexico Cenote')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world lifestyle')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392698212.jpg')

@@ -1,6 +1,6 @@
 @section('title', 'Pool Party - 2014 Orange Magazine Home Depot Cover')
 
-{{--@section('categories', '?')--}}
+{{--@section('categories', '')--}}
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392666760.jpg')

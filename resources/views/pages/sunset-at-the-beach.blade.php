@@ -1,6 +1,6 @@
 @section('title', 'Sunset at The Beach')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389080233.jpg')

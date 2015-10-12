@@ -1,6 +1,6 @@
 @section('title', 'Club Jazz')
 
-{{--@section('categories', '?')--}}
+{{--@section('categories', '')--}}
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392702825.jpg')

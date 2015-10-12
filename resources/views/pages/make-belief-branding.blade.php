@@ -1,6 +1,6 @@
 @section('title', 'Make Belief Branding')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'brand photography print illustration')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081017.jpg')

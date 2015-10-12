@@ -1,6 +1,6 @@
 @section('title', 'Georgia Aquarium')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'commercial')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1393914991.jpg')

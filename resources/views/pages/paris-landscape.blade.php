@@ -1,6 +1,6 @@
 @section('title', 'Paris Landscape')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081713.png')

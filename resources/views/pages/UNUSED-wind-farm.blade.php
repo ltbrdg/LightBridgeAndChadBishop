@@ -1,6 +1,6 @@
 @section('title', 'Wind Farm')
 
-{{--@section('categories', '?')--}}
+{{--@section('categories', '')--}}
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392698270.jpg')

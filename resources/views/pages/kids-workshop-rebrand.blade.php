@@ -1,6 +1,6 @@
 @section('title', 'Kids Workshop Rebrand')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'brand print illustration')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081144.png')

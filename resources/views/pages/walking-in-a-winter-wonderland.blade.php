@@ -1,6 +1,6 @@
 @section('title', 'Walking In a Winter Wonderland')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world lifestyle')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392699906.jpg')

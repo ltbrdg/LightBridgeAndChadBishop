@@ -1,6 +1,6 @@
 @section('title', 'Light Bridge Site Redesign')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'interactive')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392701190.jpg')

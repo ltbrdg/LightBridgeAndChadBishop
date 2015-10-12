@@ -1,6 +1,6 @@
 @section('title', 'Corporate Microsite')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'interactive photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389080430.jpg')

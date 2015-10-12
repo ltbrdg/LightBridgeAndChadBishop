@@ -1,6 +1,6 @@
 @section('title', 'Hawaii Oasis')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392697972.jpg')

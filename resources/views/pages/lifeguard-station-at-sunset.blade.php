@@ -1,6 +1,6 @@
 @section('title', 'Lifeguard Station at Sunset')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'world')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392700847.JPG')

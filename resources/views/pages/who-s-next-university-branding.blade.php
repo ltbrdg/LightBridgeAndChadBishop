@@ -1,6 +1,6 @@
 @section('title', 'Who\'s Next - University Branding')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'photography print illustration')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081317.png')

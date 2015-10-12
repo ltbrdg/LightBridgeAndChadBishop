@@ -1,6 +1,6 @@
 @section('title', 'Home Depot Career Site Redesign')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'interactive photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1389081565.jpg')

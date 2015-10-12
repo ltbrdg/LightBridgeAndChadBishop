@@ -1,6 +1,6 @@
 @section('title', 'Home Depot Military Campaign')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'commercial print photography')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1392759860.png')

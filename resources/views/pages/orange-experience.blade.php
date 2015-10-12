@@ -1,6 +1,6 @@
 @section('title', 'Orange Experience')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'print brand')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1414899749.jpg')

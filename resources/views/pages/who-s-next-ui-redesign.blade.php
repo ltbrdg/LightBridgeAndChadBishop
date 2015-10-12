@@ -1,6 +1,6 @@
 @section('title', 'Who\'s Next? UI Redesign')
 
-{{--@section('categories', '?')--}}
+@section('categories', 'interactive photography brand')
 
 @section('thumbnail.size', 'small')
 @section('thumbnail.name', '1420430440.jpg')
