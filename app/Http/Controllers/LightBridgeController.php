@@ -4,11 +4,11 @@ namespace App\Http\Controllers;
 
 class LightBridgeController extends SiteController{
     protected $portfolio_items = [
-        'world-cup-cancun-mexico'
+        'world-cup-cancun-mexico',
     ];
 
     protected $inspire_items = [
-        'world-cup-cancun-mexico'
+        'world-cup-cancun-mexico',
     ];
     
     protected function view_prefix(){

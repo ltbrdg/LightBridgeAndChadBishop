@@ -92,11 +92,19 @@
 			}
 		},
 		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 848,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "app/Http/Controllers/ChadBishopController.php",
 			"settings":
 			{
-				"buffer_size": 1846,
-				"line_ending": "Unix"
+				"buffer_size": 739,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -119,8 +127,8 @@
 			"file": "resources/views/cb/index.blade.php",
 			"settings":
 			{
-				"buffer_size": 5174,
-				"line_ending": "Unix"
+				"buffer_size": 5617,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -131,7 +139,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -212,7 +220,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 521.0
+		"width": 504.0
 	},
 	"console":
 	{
@@ -233,24 +241,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/andrew/Work/ChadBishop",
-		"/Users/andrew/Work/ChadBishop/app",
-		"/Users/andrew/Work/ChadBishop/app/Http/Controllers",
-		"/Users/andrew/Work/ChadBishop/resources",
-		"/Users/andrew/Work/ChadBishop/resources/assets",
-		"/Users/andrew/Work/ChadBishop/resources/views",
-		"/Users/andrew/Work/ChadBishop/resources/views/cb",
-		"/Users/andrew/Work/ChadBishop/resources/views/pages",
-		"/Users/andrew/Work/ChadBishop/resources/views/partial",
-		"/Users/andrew/Work/ChadBishop/storage",
-		"/Users/andrew/Work/ChadBishop/storage/images",
-		"/Users/andrew/Work/ChadBishop/vendor/intervention/image",
-		"/Users/andrew/Work/ChadBishop/vendor/intervention/image/src",
-		"/Users/andrew/Work/ChadBishop/vendor/intervention/image/src/Intervention",
-		"/Users/andrew/Work/ChadBishop/vendor/intervention/image/src/Intervention/Image"
+		"/C/Users/Andrew/Work/ChadBishop",
+		"/C/Users/Andrew/Work/ChadBishop/resources",
+		"/C/Users/Andrew/Work/ChadBishop/resources/assets",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views"
 	],
 	"file_history":
 	[
+		"/C/Users/Andrew/Work/ChadBishop/vendor/symfony/routing/Router.php",
 		"/Users/andrew/Work/ChadBishop/config/app.php",
 		"/Users/andrew/Work/ChadBishop/vendor/intervention/image/src/Intervention/Image/Image.php",
 		"/Users/andrew/Work/ChadBishop/vendor/league/flysystem/src/File.php",
@@ -377,8 +375,7 @@
 		"/Users/andrew/Work/THDCareersProduction/_lib/parts/modals/video.html",
 		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/composer/autoload_real.php",
 		"/Users/andrew/Work/THDCareersProduction/.htaccess",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/mustache/mustache/test/Mustache/Test/Functional/MustacheInjectionTest.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/mustache/mustache/test/Mustache/Test/Functional/MustacheSpecTest.php"
+		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/mustache/mustache/test/Mustache/Test/Functional/MustacheInjectionTest.php"
 	],
 	"find":
 	{
@@ -674,7 +671,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -690,8 +687,8 @@
 						"selection":
 						[
 							[
-								133,
-								133
+								139,
+								139
 							]
 						],
 						"settings":
@@ -699,16 +696,11 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -719,67 +711,76 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
+							"incomplete_sync": null,
 							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 42.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/Http/Controllers/ChadBishopController.php",
-					"semi_transient": true,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1846,
+						"buffer_size": 848,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								448,
-								448
+								9,
+								9
 							]
 						],
 						"settings":
@@ -787,16 +788,11 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -807,45 +803,51 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
 							],
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -856,6 +858,97 @@
 				},
 				{
 					"buffer": 2,
+					"file": "app/Http/Controllers/ChadBishopController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "resources/views/partial/thumbnail.blade.php",
 					"semi_transient": false,
 					"settings":
@@ -932,17 +1025,19 @@
 								"bh_double_quote_close",
 								"bh_double_quote_content"
 							],
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "resources/views/pages/world-cup-cancun-mexico.blade.php",
 					"semi_transient": false,
 					"settings":
@@ -1020,30 +1115,32 @@
 								"bh_double_quote_content"
 							],
 							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "resources/views/cb/index.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5174,
+						"buffer_size": 5617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5053,
-								5053
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1108,13 +1205,16 @@
 								"bh_double_quote_content"
 							],
 							"open_with_edit": true,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 1889.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1163,6 +1263,10 @@
 	{
 		"height": 0.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "ChadBishop.sublime-project",
 	"replace":
@@ -1176,6 +1280,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"chadbishop",
+				"app\\Http\\Controllers\\ChadBishopController.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"router",
+				"vendor\\symfony\\routing\\Router.php"
+			],
 			[
 				"thumbnail",
 				"resources/views/partial/thumbnail.blade.php"
@@ -1675,18 +1791,6 @@
 			[
 				"header-foter",
 				"_asset/css/_my-libs/header-footer.less"
-			],
-			[
-				"variables",
-				"_asset/css/_my-libs/_framework/_bootstrap-variables.less"
-			],
-			[
-				"fitsub",
-				"_asset/css/_my-libs/_inc/_fitSubNav.less"
-			],
-			[
-				"fit",
-				"_lib/parts/find-your-fit/fitSubNav.html"
 			]
 		],
 		"width": 0.0
