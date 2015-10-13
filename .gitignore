@@ -4,12 +4,16 @@ Homestead.yaml
 Homestead.json
 .env
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 *.sublime-workspace
 
 ChadBishop.sublime-workspace
 
 ChadBishop.sublime-workspace
+=======
+/storage/images
+>>>>>>> origin/master
 =======
 /storage/images
 >>>>>>> origin/master
