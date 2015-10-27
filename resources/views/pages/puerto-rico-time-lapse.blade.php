@@ -2,7 +2,7 @@
 
 @section('categories', 'video')
 
-@section('thumbnail.size', 'small')
+@section('thumbnail.size', 'medium')
 @section('thumbnail.name', '1416428570.png')
 
 @section('page-content')

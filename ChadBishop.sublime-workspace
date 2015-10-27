@@ -84,50 +84,44 @@
 	"buffers":
 	[
 		{
-			"file": "app/Http/Controllers/ImageController.php",
+			"contents": "Searching 58 files for \"1414899749\"\n\n0 matches\n\nSearching 5859 files for \"1414899749\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_lb\\js\\showcase-data.json:\n  165      {\n  166        \"categories\": \"print,brand\",\n  167:       \"image_name\": \"1414899749.jpg\",\n  168:       \"slug\": \"1414899749-orange-experience\",\n  169        \"thumb_size\": \"m\"\n  170      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\orange-experience.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1414899749.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1414899749.jpg\" alt=\"Orange Experience\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\ltbrdg-data.json:\n  165      {\n  166        \"categories\": \"print,brand\",\n  167:       \"image_name\": \"1414899749.jpg\",\n  168:       \"slug\": \"1414899749-orange-experience\",\n  169        \"thumb_size\": \"m\"\n  170      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\732333162f6b2eb690f1097c58be49e4:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1414899749.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1414899749.jpg\" alt=\"Orange Experience\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1416428570\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n  244      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_lb\\js\\showcase-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n  182      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\puerto-rico-time-lapse.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1416428570.png')\n    7  \n    8  @section('page-content')\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n  244      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\ltbrdg-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n  182      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\73b7433e868503954349eaf111f5ad21:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1416428570.png'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n\n10 matches across 6 files\n\n\nSearching 5859 files for \"1423844122\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n    3      {\n    4        \"categories\": \"world\",\n    5:       \"image_name\": \"1423844122.jpg\",\n    6:       \"slug\": \"1423844122-the-road-less-travelled\",\n    7        \"thumb_size\": \"m\"\n    8      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\the-road-less-travelled.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1423844122.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1423844122.jpg\" alt=\"The Road Less Travelled\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n    3      {\n    4        \"categories\": \"world\",\n    5:       \"image_name\": \"1423844122.jpg\",\n    6:       \"slug\": \"1423844122-the-road-less-travelled\",\n    7        \"thumb_size\": \"m\"\n    8      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\db7f3d6d45fe5eb90f4c6be71fc951eb:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1423844122.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1423844122.jpg\" alt=\"The Road Less Travelled\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1392701347\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n  227      {\n  228        \"categories\": \"print,illustration\",\n  229:       \"image_name\": \"1392701347.jpg\",\n  230:       \"slug\": \"1392701347-who-s-next-event-display\",\n  231        \"thumb_size\": \"m\"\n  232      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\who-s-next-event-display.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1392701347.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1392701347.jpg\" alt=\"Who's Next? -  Event Display\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n  227      {\n  228        \"categories\": \"print,illustration\",\n  229:       \"image_name\": \"1392701347.jpg\",\n  230:       \"slug\": \"1392701347-who-s-next-event-display\",\n  231        \"thumb_size\": \"m\"\n  232      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\59fac8d904f4220cc0a30b8e1a274b1b:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1392701347.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1392701347.jpg\" alt=\"Who's Next? -  Event Display\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1416428570.\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_lb\\js\\showcase-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\puerto-rico-time-lapse.blade.php:\n    4  \n    5  @section('thumbnail.size', 'medium')\n    6: @section('thumbnail.name', '1416428570.png')\n    7  \n    8  @section('page-content')\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\ltbrdg-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\73b7433e868503954349eaf111f5ad21:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1416428570.png'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n\n6 matches across 6 files\n\n\nSearching 5859 files for \"1392699247\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n   39      {\n   40        \"categories\": \"world\",\n   41:       \"image_name\": \"1392699247.jpg\",\n   42:       \"slug\": \"1392699247-mountain-top-view\",\n   43        \"thumb_size\": \"m\"\n   44      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\mountain-top-view.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1392699247.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1392699247.jpg\" alt=\"Mountain Top View\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n   39      {\n   40        \"categories\": \"world\",\n   41:       \"image_name\": \"1392699247.jpg\",\n   42:       \"slug\": \"1392699247-mountain-top-view\",\n   43        \"thumb_size\": \"m\"\n   44      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\98887b4bf7722c05893c67ffb319b5fa:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1392699247.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1392699247.jpg\" alt=\"Mountain Top View\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1392699906\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n   45      {\n   46        \"categories\": \"world,lifestyle\",\n   47:       \"image_name\": \"1392699906.jpg\",\n   48:       \"slug\": \"1392699906-walking-in-a-winter-wonderland\",\n   49        \"thumb_size\": \"m\"\n   50      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\walking-in-a-winter-wonderland.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1392699906.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1392699906.jpg\" alt=\"Walking In a Winter Wonderland\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n   45      {\n   46        \"categories\": \"world,lifestyle\",\n   47:       \"image_name\": \"1392699906.jpg\",\n   48:       \"slug\": \"1392699906-walking-in-a-winter-wonderland\",\n   49        \"thumb_size\": \"m\"\n   50      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\0619d4c3fd2cffb5c7372627deefad5b:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1392699906.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1392699906.jpg\" alt=\"Walking In a Winter Wonderland\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n",
 			"settings":
 			{
-				"buffer_size": 1321,
-				"line_ending": "Unix"
+				"buffer_size": 10374,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
 			}
 		},
 		{
-			"file": "app/Http/routes.php",
+			"file": "resources/views/quick_page.blade.php",
 			"settings":
 			{
-				"buffer_size": 848,
+				"buffer_size": 927,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/Http/Controllers/ChadBishopController.php",
+			"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/page.tpl.php",
 			"settings":
 			{
-				"buffer_size": 739,
+				"buffer_size": 15019,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "resources/views/partial/thumbnail.blade.php",
+			"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/style.css",
 			"settings":
 			{
-				"buffer_size": 357,
-				"line_ending": "Unix"
+				"buffer_size": 45425,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "resources/views/pages/world-cup-cancun-mexico.blade.php",
+			"file": "app/Http/Controllers/SiteController.php",
 			"settings":
 			{
-				"buffer_size": 492,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/cb/index.blade.php",
-			"settings":
-			{
-				"buffer_size": 5617,
+				"buffer_size": 2723,
 				"line_ending": "Windows"
 			}
 		}
@@ -242,150 +236,157 @@
 	"expanded_folders":
 	[
 		"/C/Users/Andrew/Work/ChadBishop",
+		"/C/Users/Andrew/Work/ChadBishop/app",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers",
 		"/C/Users/Andrew/Work/ChadBishop/resources",
-		"/C/Users/Andrew/Work/ChadBishop/resources/assets",
 		"/C/Users/Andrew/Work/ChadBishop/resources/views"
 	],
 	"file_history":
 	[
-		"/C/Users/Andrew/Work/ChadBishop/vendor/symfony/routing/Router.php",
-		"/Users/andrew/Work/ChadBishop/config/app.php",
-		"/Users/andrew/Work/ChadBishop/vendor/intervention/image/src/Intervention/Image/Image.php",
-		"/Users/andrew/Work/ChadBishop/vendor/league/flysystem/src/File.php",
-		"/Users/andrew/Work/ChadBishop/vendor/intervention/image/src/Intervention/Image/ImageManager.php",
-		"/Users/andrew/Work/ChadBishop/app/Http/Controllers/ChadBishopController.php",
-		"/Users/andrew/Work/ChadBishop/app/Http/routes.php",
-		"/Users/andrew/Work/ChadBishop/config/imageupload.php",
-		"/Users/andrew/Work/ChadBishop/vendor/league/flysystem/src/Handler.php",
-		"/Users/andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
-		"/Users/andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php",
-		"/Users/andrew/Work/ChadBishop/composer.json",
-		"/Users/andrew/Work/ChadBishop/bootstrap/app.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/partial/thumbnail.blade.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/cb/page.blade.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/quick_page.blade.php",
-		"/Users/andrew/Work/ChadBishop/vendor/marcha/image/src/KevBaldwyn/Image/Providers/Laravel/ImageServiceProvider.php",
-		"/Users/andrew/Work/ChadBishop/app/Providers/RouteServiceProvider.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/cb/partial/creative.blade.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/partials/social.blade.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/cb/layout.blade.php",
-		"/Users/andrew/Work/ChadBishop/app/Http/Controllers/LightBridgeController.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/welcome.blade.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/cb/partial/footer.blade.php",
-		"/Users/andrew/Work/ChadBishop/resources/views/cb/partial/header.blade.php",
-		"/Users/andrew/Work/ChadBishop/vendor/symfony/finder/Iterator/PathFilterIterator.php",
-		"/Users/andrew/Work/ChadBishop/server.php",
-		"/Users/andrew/Work/LightBridge/app/blade.php",
-		"/Users/andrew/Work/LightBridge/app/views/site_cb/layouts/master.blade.php",
-		"/Users/andrew/Work/LightBridge/app/filters.php",
-		"/Users/andrew/Work/LightBridge/app/start/global.php",
-		"/Users/andrew/Work/LightBridge/share_pages/html/1389079862-world-cup-cancun-mexico.html",
-		"/Users/andrew/Work/LightBridge/app/views/shared/partials/social.blade.php",
-		"/Users/andrew/Work/LightBridge/vendor/laravel/framework/src/Illuminate/View/Factory.php",
-		"/Users/andrew/Work/LightBridge/vendor/laravel/framework/src/Illuminate/View/View.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/partials/share_page.blade.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/partials/quick_page.blade.php",
-		"/Users/andrew/Work/LightBridge/app/controllers/CBController.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/layouts/master.blade.php",
-		"/Users/andrew/Work/LightBridge/app/views/site_cb/share.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/layouts/share.blade.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/layouts/plain.blade.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/layouts/quick_page.blade.php",
-		"/Users/andrew/Work/LightBridge/app/views/site_cb/partial/quick_page.php",
-		"/Users/andrew/Work/LightBridge/app/views/shared/pages/test.blade.php",
-		"/Users/andrew/Work/LightBridge/page_content/pages/test.blade.php",
-		"/Users/andrew/Work/LightBridge/app/database/seeds/UserTableSeeder.php",
-		"/Users/andrew/Work/LightBridge/app/controllers/LBSController.php",
-		"/Users/andrew/Work/LightBridge/public_CB/js/showcase-data.json",
-		"/Users/andrew/Work/LightBridge/share_pages/pages.json",
-		"/Users/andrew/Work/LightBridge/share_pages/html/1393915745-dia-de-los-muertos.html",
-		"/Users/andrew/Work/LightBridge/public_LBS/js/showcase-data.json",
-		"/Users/andrew/Work/EMGAppServer-145/config/database.yml.sample",
-		"/Users/andrew/Work/EMGAppServer-145/config/database.yml",
-		"/Users/andrew/Work/EMGAppServer-145/.gitignore",
-		"/Users/andrew/Work/EMGAppServer-145/config/initializers/elasticsearch.rb",
-		"/Users/andrew/Work/EMGAppServer-145/app/models/peopleclick_job.rb",
-		"/Users/andrew/Work/EMGAppServer-145/lib/tasks/scraper.rake",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/migrate-old/app.css",
-		"/Users/andrew/Work/THDCareersProduction/event-calendar/event-calendar.html",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/migrate-old/eventCalendar.js",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/search/kenexa.twig",
-		"/Users/andrew/Work/THDCareersProduction/jobs/index.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/search/JobSearchQuery.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/search/SearchInfo.php",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/_my-libs/job-search.js",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/_my-libs/kenexa-search.js",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/lessphp/new/lib/Less/Autoloader.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/theme.inc.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/search/cache/87/b0/5c1489060ec0d7c14438f878681577bc4dad322e4662e01b1ac336bc2f11.php",
-		"/Users/andrew/Work/THDCareersProduction/jobs/page_template.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/meta.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/config.inc.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/scripts.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/search-categories.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/video/carousel.twig",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/elasticsearch/elasticsearch/util/templates/endpoint.twig",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_my-libs/_inc/_twitter-feed.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/twitter-feed.html",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/job-search/job-search.less",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/jobs-in-bloom/jobs-in-bloom.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/search/JobSearch.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/search/default.mustache",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php",
-		"/Users/andrew/Work/elastic-search-backups/thdjobs-kenexa.json",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_my-libs/_framework/_bootstrap-variables.less",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_my-libs/_inc/_fitSubNav.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/elasticsearch/elasticsearch/docs/php_json_objects.asciidoc",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/search/kenexa.mustache",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/guzzle/guzzle/src/Guzzle/Http/QueryAggregator/PhpAggregator.php",
-		"/Users/andrew/Work/THDCareersProduction/php.ini",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/video/carousel.php",
-		"/Users/andrew/Work/THDCareersProduction/jobs-in-bloom/index.html",
-		"/Users/andrew/Work/THDCareersProduction/index.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/proxy/kenexasearchproxy.php",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/header-footer.js",
-		"/Users/andrew/Work/THDCareersProduction/video.html",
-		"/Users/andrew/Work/THDCareersProduction/developing-potential/next.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/video/main.twig",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/video/video.less",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_my-libs/hybrid.less",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/homepage/homepage.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/guzzle/guzzle/src/Guzzle/Batch/HistoryBatch.php",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/developing-potential/next.js",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_my-libs/_inc/_header.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/find-your-fit/fitSubNav.html",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_libs/font-awesome/fixed-width.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/mustache/mustache/test/fixtures/examples/dot_notation/dot_notation.mustache",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/twig/twig/test/Twig/Tests/Fixtures/exceptions/multiline_array_with_undefined_variable_again.test",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/_my-libs/single-page-scroller.js",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Scroll.php",
-		"/Users/andrew/Work/THDCareersProduction/_lib/common/video/videos.php",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/migrate-old/videogallery_resp.css",
-		"/Users/andrew/Work/THDCareersProduction/_lib/data/xml/videos.xml",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/_my-libs/_inc/_isotope.less",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/developing-potential/next.less",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/forms/job-search.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/guzzle/guzzle/docs/_static/homepage.css",
-		"/Users/andrew/Work/THDCareersProduction/_asset/css/homepage/homepage.compiled.css",
-		"/Users/andrew/Work/THDCareersProduction/_asset/js/homepage/homepage.js",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/twitter/carousel.mustache",
-		"/Users/andrew/Work/THDCareersProduction/THDCareersProduction.sublime-project",
-		"/Users/andrew/Work/THDCareersProduction/career-depot.html",
-		"/Users/andrew/Work/THDCareersProduction/find-your-fit/call-center.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/parts/modals/video.html",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/composer/autoload_real.php",
-		"/Users/andrew/Work/THDCareersProduction/.htaccess",
-		"/Users/andrew/Work/THDCareersProduction/_lib/vendor/mustache/mustache/test/Mustache/Test/Functional/MustacheInjectionTest.php"
+		"/C/Program Files (x86)/Steam/SteamApps/common/rocketleague/Binaries/Win32/SweetFX_settings.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/rocketleague/Binaries/Win32/SweetFX/SweetFX_compatibility_settings.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/rocketleague/Binaries/Win32/injector.ini",
+		"/C/Users/Andrew/Desktop/adhan/README.txt",
+		"/C/Users/Andrew/.homestead/Homestead.yaml",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial/social.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-experience.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/puerto-rico-time-lapse.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-road-less-travelled.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-event-display.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-in-a-winter-wonderland.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mountain-top-view.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/Controller.php",
+		"/C/Users/Andrew/Homestead/scripts/homestead.rb",
+		"/C/Users/Andrew/Homestead/Vagrantfile",
+		"/C/Users/Andrew/Homestead/start.sh",
+		"/C/Users/Andrew/Work/ChadBishop/homestead-halt.sh",
+		"/C/Users/Andrew/Work/ChadBishop/homestead.sh",
+		"/C/Users/Andrew/Work/ChadBishop/public_cb/js/my-lib/showcase-control.js",
+		"/C/Users/Andrew/Work/ChadBishop/public_lb/js/my-lib/showcase-control.js",
+		"/C/Users/Andrew/Work/ChadBishop/public_lb/js/index.js",
+		"/C/Users/Andrew/Work/ChadBishop/public_cb/js/index.js",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-video.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/world-cup-cancun-mexico.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/you-talking-to-me.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-university-branding.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-ui-redesign.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/welcome-card.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/we-run.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-on-the-beach.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio-valley.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/vista-family.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-orange-experience.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-night-before-christmas.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-video.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/surfer-silhouette.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/super-a.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/sunset-at-the-beach.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/running-on-the-beach.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/renee-s-headshot.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/playing-under-the-pier.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/paris-landscape.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/our-stories-the-fabric-of-the-home-depot.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-magazine-fall-cover.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moonshine.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mix.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moment-vice.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mexico-cenote.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/make-belief-branding.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-site-redesign.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-promo-illustration.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/letterpress-blocks.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/lifeguard-station-at-sunset.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/kids-workshop-rebrand.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jean-home-depot-associate.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jazz-poster.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-store-management.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-career-site-redesign.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/helping-in-the-home-depot-garden.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/hawaii-oasis.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/give-video.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/georgia-aquarium.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/diversity-inclusion-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/dia-de-los-muertos.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/corporate-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/contemplative.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/canvas.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/armageddon.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/club-jazz.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pool-party-2014-orange-magazine-home-depot-cover.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/rainbow-on-the-beach.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/snowy-castle.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/this-is-the-headline-here-i-want-to-make-sure-it-works.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/wind-farm.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/2014-las-vegas-orange-magazine-home-depot-cover.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.blade (2).php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade (2).php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade (3).php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.blade (2).php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-night-before-christmas.blade (2).php",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/LightBridgeController.php",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/ChadBishopController.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/chadbishop-data.json",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/ltbrdg-data.json",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/showcase-data 2.json",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080811-customer-service-at-the-home-depot.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389079862-world-cup-cancun-mexico.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080146-orange-magazine-fall-cover.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080233-sunset-at-the-beach.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080342-jazz-poster.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080430-corporate-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080950-light-bridge-promo-illustration.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081017-make-belief-branding.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081144-kids-workshop-rebrand.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081240-home-depot-military-campaign.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081317-who-s-next-university-branding.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081390-the-orange-experience.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081491-renee-s-headshot.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081565-home-depot-career-site-redesign.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081713-paris-landscape.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081789-home-services.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081908-home-depot-store-management.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081977-home-services.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082049-home-services-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082129-technology-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082247-technology-video.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082332-welcome-card.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082458-who-s-next-video.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082516-diversity-inclusion-microsite.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084314-canvas.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084440-give-video.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084554-mix.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084657-waipio.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084821-moonshine.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084927-we-run.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085049-you-talking-to-me.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085172-moment-vice.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085288-armageddon.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085357-snowy-castle.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389217994-this-is-the-headline-here-i-want-to-make-sure-it-works.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1392666760-pool-party-2014-orange-magazine-home-depot-cover.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1392697528-rainbow-on-the-beach.blade.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
+			"*",
+			"*.js",
+			"",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\pages-old\\",
 			"*.php",
 			"*",
 			"*.js",
@@ -475,134 +476,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			", null],",
-			" 0",
-			"function canvas",
-			"function Make",
-			"ImageServiceProvider",
-			"backup",
-			"$file",
-			"assets",
-			"sass",
-			"assets/sass",
-			"app",
-			"basepath()",
-			"open",
-			"function basePath",
-			"/resources",
-			"file",
-			"renderThumb",
-			"partials",
-			"thumbnail-",
-			"@yeild",
-			"-",
-			"; ?>",
-			"<?php echo ",
-			"$this->$view_",
-			"$view_prefix",
-			"    ",
-			"<?php",
-			"php",
-			"foreach",
-			"site_cb.",
-			"@yield('content')",
-			"public",
-			"'public' =>",
-			"This is appended to the master sidebar.",
-			"  ",
-			" ",
-			"script",
-			"$index",
-			"; ?>",
-			"<?php echo ",
-			"thumb",
-			"static",
-			"make",
-			"function nest",
-			"nest",
-			"<?php echo $social_links",
-			"<?php echo ",
-			"showcase-single",
-			"js_data",
-			"{{ _SERVER",
-			"asset_data",
-			"{{ meta_data",
-			"echo",
-			"<?php echo echo ",
-			"):",
-			"/*",
-			"*/",
-			"else:",
-			"{{ else: ",
-			"if(",
-			": }}",
-			" : }}",
-			"{{ endif }}",
-			"{{ if",
-			" or ''",
-			"{{{ ",
-			"}}",
-			"{{",
-			"?>",
-			"<?php ",
-			"; ?>",
-			"] ?>",
-			"<?php echo $",
-			"<?php",
-			"<?",
-			"$sizes",
-			"<?",
-			"@yield('",
-			"<?php echo $social_links['']; ?>",
-			"layout",
-			"template",
-			"1392700847",
-			"1392698464",
+			"slideshow",
+			"3d",
+			"shix",
+			"&",
+			"href=\"http%3A%2F%2F",
+			"http%3A%2F%2Fwww",
+			"http%3A%2F%2Fwww.",
+			"http:%2F",
+			"/image/small/",
+			"://",
+			"$_SERVER['HTTP_HOST'] }}",
+			"$url",
+			"&",
+			"Who%27s+Next%3F+UI+Redesign",
+			"http%3A%2F%2Fltbrdg.com%2Fshare%2Fportfolio%2Fwho-s-next-ui-redesign",
+			"http%3A%2F%2Fltbrdg.com%2Fshare%2Fportfolio%2Fwho-s-next-ui-redesign&amp;",
+			"\" . \"",
+			"http%3A%2F%2Fltbrdg",
+			"://",
+			"http",
+			" href=",
+			"1392699906",
+			"1392699247",
+			"1416428570.",
+			"1392701347",
+			"1423844122",
+			"1416428570",
+			"1414899749",
+			"workShowCase",
+			"ShowCase(",
+			"isotope",
+			"1389085049",
+			"1389079862",
+			"wind-farm",
+			"1392698270",
+			"1389082458",
+			"1389081317",
+			",",
+			"1420430440",
+			"1392701347",
+			"1389082332",
+			",",
+			"1389084927",
 			"1392698316",
-			"admincontroller",
-			"admincontroler",
-			"user",
-			"DB::table",
-			"\"thumb_size\": \"[^s]\"",
-			"showcase",
-			"$showcase",
-			"share",
-			"jobs/",
-			".json",
-			"/jobs/",
-			"/jobs",
-			"twilio",
-			"twillo",
-			"missing",
-			", ",
-			"missing_ids",
-			"transport",
-			"dev",
-			"10.",
-			"class Model",
-			"Model",
-			"Elasticsearch::Model",
-			"PeopleclickJob",
-			"bolt",
-			"## ",
-			"### ",
-			"featured",
-			"console.log",
-			"console",
-			"console.log",
-			"\"uri\" => ",
-			"+++",
-			"transportation",
-			"\"id\" => \"\",",
-			"\"uri\" ",
-			")",
-			"array(",
-			"(",
-			"\">",
-			"option value=\"",
-			"</option",
-			"><",
-			"services"
+			"1392699906",
+			"1389084657",
+			"1392698464",
+			"1395775420",
+			"snowy",
+			"rainbow-on-the-beach",
+			"pool-party-2014-orange-magazine-home-depot-cover",
+			"club-jazz",
+			"1389217994",
+			"1423844122",
+			",",
+			"1389081390",
+			"the-night-before-christmas",
+			"1393007894",
+			"1389082247",
+			"1389082129",
+			"1392697757",
+			"1392700665",
+			"1389080233",
+			"1389085357",
+			",",
+			"1392698700",
+			"1389081491",
+			"1392697528",
+			"1416428570",
+			"1392666760",
+			"1392697661",
+			"1389081713",
+			"1430776703",
+			",",
+			"1389080146",
+			"1414899749",
+			"1392699247",
+			"1389084821",
+			"1389085172",
+			"1389084554",
+			"1392698212",
+			",",
+			"1389081017",
+			"1392701190",
+			"1389080950",
+			"1392700847",
+			"1424712752",
+			"1389081144",
+			"1393954040",
+			",",
+			"1389080342",
+			"1389081977",
+			"1389082049",
+			"1389081908",
+			"1392759860",
+			"1389081565",
+			"1392760202",
+			"1392697972",
+			",",
+			"1389084440",
+			"1393914991",
+			"1389082516",
+			",",
+			"1393915745",
+			"1389080811.png",
+			"1389080430.jpg",
+			"1395775473.jpg",
+			"1392702825.jpg",
+			",",
+			"1389084314.png",
+			"{{--@section('categories', '?')--}}",
+			"1389085288.jpg",
+			",",
+			"1395774431.jpg",
+			"{{--",
+			"{{--@section('thumbnail.name'",
+			"who-s-next-video",
+			"technology-video",
+			"puerto-rico-time-lapse",
+			"our-stories-the-fabric-of-the-home-depot",
+			"give-video",
+			"customer-service-at-the-home-depot",
+			"{{--@section('thumbnail.name'",
+			"1414899363",
+			"1414899394",
+			"1414899363",
+			"1393915745",
+			"1393915438"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -610,6 +611,20 @@
 		"regex": false,
 		"replace_history":
 		[
+			"{{--@section('categories', '')--}}",
+			"\"$1\"",
+			"$1\\n\\n{{--@section('categories', '?')--}}",
+			"$1\\n\\n@section('thumbnail.size', 'small')\\n{{--@section('thumbnail.name', '')--}}$2",
+			"/image/original/",
+			"@section('thumbnail.size', 'small')\\n@section('thumbnail.name', '$1')\\n\\n@section('page-content')\\n<img src=\"/thumb/o/$1\"",
+			"\\n@stop",
+			"@section('page-content')\\n",
+			"<div class=\"inner-block\">",
+			"",
+			"@section('title', '$1\\\\'$2')",
+			"@section('title', '$1\\'$2')",
+			"\\n",
+			"@section('title', '$1')",
 			"}else{",
 			"){",
 			" {",
@@ -671,24 +686,255 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/Http/Controllers/ImageController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1321,
+						"buffer_size": 10374,
 						"regions":
 						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										235,
+										245
+									],
+									[
+										274,
+										284
+									],
+									[
+										520,
+										530
+									],
+									[
+										610,
+										620
+									],
+									[
+										846,
+										856
+									],
+									[
+										885,
+										895
+									],
+									[
+										1178,
+										1188
+									],
+									[
+										1294,
+										1304
+									],
+									[
+										1602,
+										1612
+									],
+									[
+										1641,
+										1651
+									],
+									[
+										1865,
+										1875
+									],
+									[
+										1904,
+										1914
+									],
+									[
+										2160,
+										2170
+									],
+									[
+										2378,
+										2388
+									],
+									[
+										2417,
+										2427
+									],
+									[
+										2655,
+										2665
+									],
+									[
+										2694,
+										2704
+									],
+									[
+										2992,
+										3002
+									],
+									[
+										3285,
+										3295
+									],
+									[
+										3324,
+										3334
+									],
+									[
+										3582,
+										3592
+									],
+									[
+										3672,
+										3682
+									],
+									[
+										3912,
+										3922
+									],
+									[
+										3951,
+										3961
+									],
+									[
+										4250,
+										4260
+									],
+									[
+										4366,
+										4376
+									],
+									[
+										4693,
+										4703
+									],
+									[
+										4732,
+										4742
+									],
+									[
+										4992,
+										5002
+									],
+									[
+										5082,
+										5092
+									],
+									[
+										5340,
+										5350
+									],
+									[
+										5379,
+										5389
+									],
+									[
+										5679,
+										5689
+									],
+									[
+										5795,
+										5805
+									],
+									[
+										6115,
+										6126
+									],
+									[
+										6364,
+										6375
+									],
+									[
+										6646,
+										6657
+									],
+									[
+										6864,
+										6875
+									],
+									[
+										7127,
+										7138
+									],
+									[
+										7450,
+										7461
+									],
+									[
+										7742,
+										7752
+									],
+									[
+										7781,
+										7791
+									],
+									[
+										8027,
+										8037
+									],
+									[
+										8117,
+										8127
+									],
+									[
+										8351,
+										8361
+									],
+									[
+										8390,
+										8400
+									],
+									[
+										8683,
+										8693
+									],
+									[
+										8799,
+										8809
+									],
+									[
+										9117,
+										9127
+									],
+									[
+										9156,
+										9166
+									],
+									[
+										9428,
+										9438
+									],
+									[
+										9518,
+										9528
+									],
+									[
+										9775,
+										9785
+									],
+									[
+										9814,
+										9824
+									],
+									[
+										10120,
+										10130
+									],
+									[
+										10236,
+										10246
+									]
+								],
+								"scope": ""
+							}
 						},
 						"selection":
 						[
 							[
-								139,
-								139
+								9430,
+								9430
 							]
 						],
 						"settings":
@@ -696,91 +942,186 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_dir": "C:\\Users\\Andrew\\Work\\ChadBishop",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 8,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4626.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/quick_page.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								927,
+								927
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"incomplete_sync": null,
-							"open_with_edit": true,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 42.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "app/Http/routes.php",
+					"buffer": 2,
+					"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/page.tpl.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 848,
+						"buffer_size": 15019,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								4032,
+								4032
 							]
 						],
 						"settings":
@@ -788,89 +1129,91 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1631.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "app/Http/Controllers/ChadBishopController.php",
+					"buffer": 3,
+					"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 739,
+						"buffer_size": 45425,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								121,
-								121
+								43349,
+								43349
 							]
 						],
 						"settings":
@@ -878,61 +1221,153 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 29689.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/SiteController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2401,
+								2398
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
@@ -941,280 +1376,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "resources/views/partial/thumbnail.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 357,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								350,
-								350
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1235.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "resources/views/pages/world-cup-cancun-mexico.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 492,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								125,
-								125
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"open_with_edit": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "resources/views/cb/index.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5617,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"open_with_edit": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1889.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1271,7 +1436,7 @@
 	"project": "ChadBishop.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1280,6 +1445,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"controller",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				".js",
+				"public_lb\\js\\index.js"
+			],
+			[
+				"chadcontro",
+				"app\\Http\\Controllers\\ChadBishopController.php"
+			],
+			[
+				"lightcontroller",
+				"app\\Http\\Controllers\\LightBridgeController.php"
+			],
 			[
 				"chadbishop",
 				"app\\Http\\Controllers\\ChadBishopController.php"
@@ -1775,22 +1956,6 @@
 			[
 				"college-form",
 				"college-form/index.html"
-			],
-			[
-				"footer.less",
-				"_asset/css/_my-libs/_inc/_footer.less"
-			],
-			[
-				"socialblock",
-				"_asset/js/migrate-old/socialBlock.js"
-			],
-			[
-				"module",
-				"_asset/css/_my-libs/_utilities/_module_helper.less"
-			],
-			[
-				"header-foter",
-				"_asset/css/_my-libs/header-footer.less"
 			]
 		],
 		"width": 0.0

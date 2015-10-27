@@ -2,7 +2,7 @@
 
 @section('categories', 'print brand')
 
-@section('thumbnail.size', 'small')
+@section('thumbnail.size', 'medium')
 @section('thumbnail.name', '1414899749.jpg')
 
 @section('page-content')

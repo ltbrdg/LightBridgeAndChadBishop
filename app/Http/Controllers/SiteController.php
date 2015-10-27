@@ -82,7 +82,16 @@ abstract class SiteController extends Controller{
 	public function getQuickPages($page){
 		$view = "pages.$page";
 		if (view()->exists($view)){
-			return view('quick_page')->with('content', view($view));
+			return view('quick_page')
+				->with('content', view($view))
+				->with('uri', $page);
+// $url = "http%3A%2F%2Fltbrdg.com%2Fshare%2Fportfolio%2Fwho-s-next-ui-redesign";
+// $title = "Who%27s+Next%3F+UI+Redesign";
+// $media = "%2F%2Fltbrdg.com%2Fthumb%2Fo%2F1420430440.jpg";
+// "http://pinterest.com/pin/create/button/?url=" . $url . "&media=&description=" . $title
+// "http://www.linkedin.com/shareArticle?mini=true&amp;url=" . $url . "&title=" . $title
+// "https://twitter.com/share?url=" . $url
+// "https://www.facebook.com/sharer/sharer.php?u=" . $url
 		}else{
 			return App::abort(404);
 		}

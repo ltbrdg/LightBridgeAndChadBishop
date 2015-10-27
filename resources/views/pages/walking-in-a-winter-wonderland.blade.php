@@ -2,7 +2,7 @@
 
 @section('categories', 'world lifestyle')
 
-@section('thumbnail.size', 'small')
+@section('thumbnail.size', 'medium')
 @section('thumbnail.name', '1392699906.jpg')
 
 @section('page-content')
