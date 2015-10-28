@@ -1,0 +1,10 @@
+<div class="share">
+    <hr />
+    <h4>Share Me!</h4>
+    {% set link = 'http://' ~ HTTP_HOST ~ '/pages/' ~ slug %}
+    {% set thumb_link = 'http://' ~ HTTP_HOST ~ '/image/small/' ~ thumbnail_name %}
+    <a target="_blank" class="pintrest" href="http://pinterest.com/pin/create/button/?url={{ link | url_encode }}&amp;media={{ thumb_link | url_encode }}&amp;description={{ title | url_encode }}">Pinterest</a>
+    <a target="_blank" class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ link | url_encode }}&amp;title={{ title | url_encode }}">LinkedIn</a>
+    <a target="_blank" class="twitter" href="https://twitter.com/share?url={{ link | url_encode }}">Twitter</a>
+    <a target="_blank" class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ link | url_encode }}">Facebook</a>
+</div>

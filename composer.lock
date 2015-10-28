@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ce558dfcc7ff3224b17c5fb4384205c6",
-    "content-hash": "d2c4afd088a4c3823a7a4a1b8637ee6e",
+    "hash": "f305978b8ca80c95da4f1aaa31e878a8",
+    "content-hash": "5bc18f6dff796ca6091c07313a33d233",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -1109,6 +1109,70 @@
             "time": "2015-07-16 15:26:57"
         },
         {
+            "name": "rcrowe/twigbridge",
+            "version": "v0.8.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rcrowe/TwigBridge.git",
+                "reference": "2db996707f969b464876bf4d18e45cf465d19ad6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rcrowe/TwigBridge/zipball/2db996707f969b464876bf4d18e45cf465d19ad6",
+                "reference": "2db996707f969b464876bf4d18e45cf465d19ad6",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "5.0.*|5.1.*",
+                "illuminate/view": "5.0.*|5.1.*",
+                "php": ">=5.4.0",
+                "twig/twig": "~1.15|~2.0"
+            },
+            "require-dev": {
+                "laravel/framework": "5.0.*",
+                "mockery/mockery": "0.9.*",
+                "phpunit/phpunit": "~4.0",
+                "satooshi/php-coveralls": "~0.6",
+                "squizlabs/php_codesniffer": "~1.5"
+            },
+            "suggest": {
+                "laravelcollective/html": "For bringing back html/form in Laravel 5.x",
+                "twig/extensions": "~1.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.8-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "TwigBridge\\": "src",
+                    "TwigBridge\\Tests\\": "tests"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Barry vd. Heuvel",
+                    "email": "barryvdh@gmail.com"
+                },
+                {
+                    "name": "Rob Crowe",
+                    "email": "hello@vivalacrowe.com"
+                }
+            ],
+            "description": "Adds the power of Twig to Laravel",
+            "keywords": [
+                "laravel",
+                "twig"
+            ],
+            "time": "2015-08-13 09:31:19"
+        },
+        {
             "name": "swiftmailer/swiftmailer",
             "version": "v5.4.1",
             "source": {
@@ -1858,6 +1922,67 @@
                 "dump"
             ],
             "time": "2015-08-31 12:28:11"
+        },
+        {
+            "name": "twig/twig",
+            "version": "v1.22.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/twigphp/Twig.git",
+                "reference": "ebfc36b7e77b0c1175afe30459cf943010245540"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/ebfc36b7e77b0c1175afe30459cf943010245540",
+                "reference": "ebfc36b7e77b0c1175afe30459cf943010245540",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.7"
+            },
+            "require-dev": {
+                "symfony/debug": "~2.7",
+                "symfony/phpunit-bridge": "~2.7"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.22-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Twig_": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com",
+                    "homepage": "http://fabien.potencier.org",
+                    "role": "Lead Developer"
+                },
+                {
+                    "name": "Armin Ronacher",
+                    "email": "armin.ronacher@active-4.com",
+                    "role": "Project Founder"
+                },
+                {
+                    "name": "Twig Team",
+                    "homepage": "http://twig.sensiolabs.org/contributors",
+                    "role": "Contributors"
+                }
+            ],
+            "description": "Twig, the flexible, fast, and secure template language for PHP",
+            "homepage": "http://twig.sensiolabs.org",
+            "keywords": [
+                "templating"
+            ],
+            "time": "2015-10-13 07:07:02"
         },
         {
             "name": "vlucas/phpdotenv",

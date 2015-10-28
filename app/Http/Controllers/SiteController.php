@@ -12,13 +12,20 @@ abstract class SiteController extends Controller{
 	public function __construct(){
 		$this->view_prefix = $this->view_prefix();
 		View::share('VIEW_PREFIX', $this->view_prefix);
+		View::share('HTTP_HOST', $_SERVER['HTTP_HOST']);
 	}
 
 	abstract protected function view_prefix();
 
 	protected function renderThumb($key, $page){
-		return view('partial.thumbnail')
-			->with('content', view("pages.$page"))
+		$view = "pages.$page";
+		// return view('partial.thumbnail')
+		// 	->with('content', view($view))
+		// 	->with('key', $key)
+		// 	->with('slug', $page)
+		// 	->render();
+		return view($view)
+			->with('template', 'partial.thumbnail')
 			->with('key', $key)
 			->with('slug', $page)
 			->render();
@@ -70,10 +77,11 @@ abstract class SiteController extends Controller{
 
 	public function getPages($page){
 		$view = "pages.$page";
-		// $layout = $template ? $template : $this->layout;
 		$data = array();
 		if (view()->exists($view)){
-			return view("{$this->view_prefix}.page")->with('content', view($view));
+			return view($view)
+				//->with('template', 'quick_page');
+				->with('slug', $page);
 		}else{
 			return App::abort(404);
 		}
@@ -82,16 +90,12 @@ abstract class SiteController extends Controller{
 	public function getQuickPages($page){
 		$view = "pages.$page";
 		if (view()->exists($view)){
-			return view('quick_page')
-				->with('content', view($view))
-				->with('uri', $page);
-// $url = "http%3A%2F%2Fltbrdg.com%2Fshare%2Fportfolio%2Fwho-s-next-ui-redesign";
-// $title = "Who%27s+Next%3F+UI+Redesign";
-// $media = "%2F%2Fltbrdg.com%2Fthumb%2Fo%2F1420430440.jpg";
-// "http://pinterest.com/pin/create/button/?url=" . $url . "&media=&description=" . $title
-// "http://www.linkedin.com/shareArticle?mini=true&amp;url=" . $url . "&title=" . $title
-// "https://twitter.com/share?url=" . $url
-// "https://www.facebook.com/sharer/sharer.php?u=" . $url
+			// return view('quick_page')
+			// 	->with('content', view($view))
+			// 	->with('uri', $page);
+			return view($view)
+				->with('template', 'quick_page')
+				->with('slug', $page);
 		}else{
 			return App::abort(404);
 		}

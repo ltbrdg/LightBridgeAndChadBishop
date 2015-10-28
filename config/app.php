@@ -148,6 +148,7 @@ return [
         // Matriphe\Imageupload\ImageuploadServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
         Illuminate\Html\HtmlServiceProvider::class,
+        TwigBridge\ServiceProvider::class,
     ],
 
     /*
@@ -201,6 +202,7 @@ return [
         'Image'     => Intervention\Image\Facades\Image::class,
         'Form'      => Illuminate\Html\FormFacade::class, 
         'HTML'      => Illuminate\Html\HtmlFacade::class,
+        'Twig'      => TwigBridge\Facade\Twig::class,
     ],
 
 ];
