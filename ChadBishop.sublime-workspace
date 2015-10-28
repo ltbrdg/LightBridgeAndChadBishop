@@ -84,44 +84,34 @@
 	"buffers":
 	[
 		{
-			"contents": "Searching 58 files for \"1414899749\"\n\n0 matches\n\nSearching 5859 files for \"1414899749\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_lb\\js\\showcase-data.json:\n  165      {\n  166        \"categories\": \"print,brand\",\n  167:       \"image_name\": \"1414899749.jpg\",\n  168:       \"slug\": \"1414899749-orange-experience\",\n  169        \"thumb_size\": \"m\"\n  170      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\orange-experience.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1414899749.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1414899749.jpg\" alt=\"Orange Experience\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\ltbrdg-data.json:\n  165      {\n  166        \"categories\": \"print,brand\",\n  167:       \"image_name\": \"1414899749.jpg\",\n  168:       \"slug\": \"1414899749-orange-experience\",\n  169        \"thumb_size\": \"m\"\n  170      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\732333162f6b2eb690f1097c58be49e4:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1414899749.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1414899749.jpg\" alt=\"Orange Experience\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1416428570\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n  244      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_lb\\js\\showcase-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n  182      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\puerto-rico-time-lapse.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1416428570.png')\n    7  \n    8  @section('page-content')\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n  244      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\ltbrdg-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180:       \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n  182      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\73b7433e868503954349eaf111f5ad21:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1416428570.png'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n\n10 matches across 6 files\n\n\nSearching 5859 files for \"1423844122\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n    3      {\n    4        \"categories\": \"world\",\n    5:       \"image_name\": \"1423844122.jpg\",\n    6:       \"slug\": \"1423844122-the-road-less-travelled\",\n    7        \"thumb_size\": \"m\"\n    8      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\the-road-less-travelled.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1423844122.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1423844122.jpg\" alt=\"The Road Less Travelled\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n    3      {\n    4        \"categories\": \"world\",\n    5:       \"image_name\": \"1423844122.jpg\",\n    6:       \"slug\": \"1423844122-the-road-less-travelled\",\n    7        \"thumb_size\": \"m\"\n    8      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\db7f3d6d45fe5eb90f4c6be71fc951eb:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1423844122.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1423844122.jpg\" alt=\"The Road Less Travelled\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1392701347\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n  227      {\n  228        \"categories\": \"print,illustration\",\n  229:       \"image_name\": \"1392701347.jpg\",\n  230:       \"slug\": \"1392701347-who-s-next-event-display\",\n  231        \"thumb_size\": \"m\"\n  232      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\who-s-next-event-display.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1392701347.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1392701347.jpg\" alt=\"Who's Next? -  Event Display\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n  227      {\n  228        \"categories\": \"print,illustration\",\n  229:       \"image_name\": \"1392701347.jpg\",\n  230:       \"slug\": \"1392701347-who-s-next-event-display\",\n  231        \"thumb_size\": \"m\"\n  232      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\59fac8d904f4220cc0a30b8e1a274b1b:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1392701347.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1392701347.jpg\" alt=\"Who's Next? -  Event Display\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1416428570.\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_lb\\js\\showcase-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\puerto-rico-time-lapse.blade.php:\n    4  \n    5  @section('thumbnail.size', 'medium')\n    6: @section('thumbnail.name', '1416428570.png')\n    7  \n    8  @section('page-content')\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n  239      {\n  240        \"categories\": \"video\",\n  241:       \"image_name\": \"1416428570.png\",\n  242        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  243        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\ltbrdg-data.json:\n  177      {\n  178        \"categories\": \"video\",\n  179:       \"image_name\": \"1416428570.png\",\n  180        \"slug\": \"1416428570-puerto-rico-time-lapse\",\n  181        \"thumb_size\": \"m\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\73b7433e868503954349eaf111f5ad21:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1416428570.png'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n\n6 matches across 6 files\n\n\nSearching 5859 files for \"1392699247\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n   39      {\n   40        \"categories\": \"world\",\n   41:       \"image_name\": \"1392699247.jpg\",\n   42:       \"slug\": \"1392699247-mountain-top-view\",\n   43        \"thumb_size\": \"m\"\n   44      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\mountain-top-view.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1392699247.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1392699247.jpg\" alt=\"Mountain Top View\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n   39      {\n   40        \"categories\": \"world\",\n   41:       \"image_name\": \"1392699247.jpg\",\n   42:       \"slug\": \"1392699247-mountain-top-view\",\n   43        \"thumb_size\": \"m\"\n   44      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\98887b4bf7722c05893c67ffb319b5fa:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1392699247.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1392699247.jpg\" alt=\"Mountain Top View\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n\n\nSearching 5859 files for \"1392699906\"\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\public_cb\\js\\showcase-data.json:\n   45      {\n   46        \"categories\": \"world,lifestyle\",\n   47:       \"image_name\": \"1392699906.jpg\",\n   48:       \"slug\": \"1392699906-walking-in-a-winter-wonderland\",\n   49        \"thumb_size\": \"m\"\n   50      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\walking-in-a-winter-wonderland.blade.php:\n    4  \n    5  @section('thumbnail.size', 'small')\n    6: @section('thumbnail.name', '1392699906.jpg')\n    7  \n    8  @section('page-content')\n    9: <img src=\"/image/original/1392699906.jpg\" alt=\"Walking In a Winter Wonderland\" data-lightbox=\"\" />\n   10  @stop\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\backup\\chadbishop-data.json:\n   45      {\n   46        \"categories\": \"world,lifestyle\",\n   47:       \"image_name\": \"1392699906.jpg\",\n   48:       \"slug\": \"1392699906-walking-in-a-winter-wonderland\",\n   49        \"thumb_size\": \"m\"\n   50      },\n\nC:\\Users\\Andrew\\Work\\ChadBishop\\storage\\framework\\views\\0619d4c3fd2cffb5c7372627deefad5b:\n    4  \n    5  <?php $__env->startSection('thumbnail.size', 'small'); ?>\n    6: <?php $__env->startSection('thumbnail.name', '1392699906.jpg'); ?>\n    7  \n    8  <?php $__env->startSection('page-content'); ?>\n    9: <img src=\"/image/original/1392699906.jpg\" alt=\"Walking In a Winter Wonderland\" data-lightbox=\"\" />\n   10  <?php $__env->stopSection(); ?>\n\n8 matches across 4 files\n",
+			"file": "resources/views/cb/layout.twig",
 			"settings":
 			{
-				"buffer_size": 10374,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "resources/views/quick_page.blade.php",
-			"settings":
-			{
-				"buffer_size": 927,
+				"buffer_size": 3335,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/page.tpl.php",
+			"file": "resources/views/lb/layout.twig",
 			"settings":
 			{
-				"buffer_size": 15019,
+				"buffer_size": 3417,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/style.css",
+			"file": "resources/views/lb/partial/header.twig",
 			"settings":
 			{
-				"buffer_size": 45425,
+				"buffer_size": 1443,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/Http/Controllers/SiteController.php",
+			"file": "resources/views/lb/index.twig",
 			"settings":
 			{
-				"buffer_size": 2723,
+				"buffer_size": 10325,
 				"line_ending": "Windows"
 			}
 		}
@@ -138,12 +128,12 @@
 		"selected_items":
 		[
 			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
 			],
 			[
 				"github",
@@ -214,7 +204,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 504.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -239,139 +229,153 @@
 		"/C/Users/Andrew/Work/ChadBishop/app",
 		"/C/Users/Andrew/Work/ChadBishop/app/Http",
 		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers",
+		"/C/Users/Andrew/Work/ChadBishop/config",
 		"/C/Users/Andrew/Work/ChadBishop/resources",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views"
+		"/C/Users/Andrew/Work/ChadBishop/resources/lang/en",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/partial",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/partial",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Command",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Engine",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Extension",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Extension/Laravel"
 	],
 	"file_history":
 	[
-		"/C/Program Files (x86)/Steam/SteamApps/common/rocketleague/Binaries/Win32/SweetFX_settings.txt",
-		"/C/Program Files (x86)/Steam/SteamApps/common/rocketleague/Binaries/Win32/SweetFX/SweetFX_compatibility_settings.txt",
-		"/C/Program Files (x86)/Steam/SteamApps/common/rocketleague/Binaries/Win32/injector.ini",
-		"/C/Users/Andrew/Desktop/adhan/README.txt",
-		"/C/Users/Andrew/.homestead/Homestead.yaml",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial/social.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-experience.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/puerto-rico-time-lapse.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-road-less-travelled.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-event-display.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-in-a-winter-wonderland.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mountain-top-view.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/Controller.php",
-		"/C/Users/Andrew/Homestead/scripts/homestead.rb",
-		"/C/Users/Andrew/Homestead/Vagrantfile",
-		"/C/Users/Andrew/Homestead/start.sh",
-		"/C/Users/Andrew/Work/ChadBishop/homestead-halt.sh",
-		"/C/Users/Andrew/Work/ChadBishop/homestead.sh",
-		"/C/Users/Andrew/Work/ChadBishop/public_cb/js/my-lib/showcase-control.js",
-		"/C/Users/Andrew/Work/ChadBishop/public_lb/js/my-lib/showcase-control.js",
-		"/C/Users/Andrew/Work/ChadBishop/public_lb/js/index.js",
-		"/C/Users/Andrew/Work/ChadBishop/public_cb/js/index.js",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-video.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/world-cup-cancun-mexico.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/you-talking-to-me.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-university-branding.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-ui-redesign.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/welcome-card.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/we-run.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-on-the-beach.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio-valley.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/vista-family.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-orange-experience.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-night-before-christmas.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-video.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/surfer-silhouette.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/super-a.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/sunset-at-the-beach.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/running-on-the-beach.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/renee-s-headshot.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/playing-under-the-pier.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/paris-landscape.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/our-stories-the-fabric-of-the-home-depot.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-magazine-fall-cover.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moonshine.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mix.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moment-vice.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mexico-cenote.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/make-belief-branding.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-site-redesign.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-promo-illustration.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/letterpress-blocks.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/lifeguard-station-at-sunset.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/kids-workshop-rebrand.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jean-home-depot-associate.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jazz-poster.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-store-management.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-career-site-redesign.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/helping-in-the-home-depot-garden.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/hawaii-oasis.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/give-video.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/georgia-aquarium.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/diversity-inclusion-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/dia-de-los-muertos.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/corporate-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/contemplative.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/canvas.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/armageddon.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/club-jazz.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pool-party-2014-orange-magazine-home-depot-cover.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/rainbow-on-the-beach.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/snowy-castle.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/this-is-the-headline-here-i-want-to-make-sure-it-works.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/wind-farm.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/2014-las-vegas-orange-magazine-home-depot-cover.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.blade (2).php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade (2).php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade (3).php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.blade (2).php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-night-before-christmas.blade (2).php",
-		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/LightBridgeController.php",
-		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/ChadBishopController.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/chadbishop-data.json",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/ltbrdg-data.json",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/showcase-data 2.json",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080811-customer-service-at-the-home-depot.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389079862-world-cup-cancun-mexico.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080146-orange-magazine-fall-cover.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080233-sunset-at-the-beach.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080342-jazz-poster.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080430-corporate-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389080950-light-bridge-promo-illustration.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081017-make-belief-branding.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081144-kids-workshop-rebrand.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081240-home-depot-military-campaign.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081317-who-s-next-university-branding.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081390-the-orange-experience.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081491-renee-s-headshot.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081565-home-depot-career-site-redesign.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081713-paris-landscape.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081789-home-services.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081908-home-depot-store-management.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389081977-home-services.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082049-home-services-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082129-technology-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082247-technology-video.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082332-welcome-card.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082458-who-s-next-video.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389082516-diversity-inclusion-microsite.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084314-canvas.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084440-give-video.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084554-mix.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084657-waipio.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084821-moonshine.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389084927-we-run.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085049-you-talking-to-me.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085172-moment-vice.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085288-armageddon.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389085357-snowy-castle.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1389217994-this-is-the-headline-here-i-want-to-make-sure-it-works.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1392666760-pool-party-2014-orange-magazine-home-depot-cover.blade.php",
-		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/pages-old/1392697528-rainbow-on-the-beach.blade.php"
+		"/C/Users/Andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/SiteController.php",
+		"/C/Users/Andrew/Work/ChadBishop/config/app.php",
+		"/C/Users/Andrew/Work/ChadBishop/config/twigbridge.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/contact.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial/social.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/index.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/layout.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/layout.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/partial/footer.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/partial/footer.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/quick_page.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/quick_page.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/2014-las-vegas-orange-magazine-home-depot-cover.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/armageddon.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/canvas.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/contemplative.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/corporate-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/dia-de-los-muertos.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/diversity-inclusion-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/georgia-aquarium.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/give-video.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/hawaii-oasis.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/helping-in-the-home-depot-garden.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-career-site-redesign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-store-management.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jazz-poster.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jean-home-depot-associate.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/kids-workshop-rebrand.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/letterpress-blocks.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/lifeguard-station-at-sunset.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-promo-illustration.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-site-redesign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/make-belief-branding.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mexico-cenote.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mix.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moment-vice.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moonshine.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mountain-top-view.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-experience.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-magazine-fall-cover.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/our-stories-the-fabric-of-the-home-depot.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/paris-landscape.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/playing-under-the-pier.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/puerto-rico-time-lapse.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/renee-s-headshot.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/running-on-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/sunset-at-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/super-a.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/surfer-silhouette.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-video.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-night-before-christmas.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-orange-experience.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-road-less-travelled.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-club-jazz.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-pool-party-2014-orange-magazine-home-depot-cover.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-rainbow-on-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-snowy-castle.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-wind-farm.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/vista-family.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio-valley.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-in-a-winter-wonderland.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-on-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/we-run.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/welcome-card.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-event-display.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-ui-redesign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-university-branding.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-video.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/page.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/world-cup-cancun-mexico.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/you-talking-to-me.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial/thumbnail.twig",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Engine/Twig.php",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/Contracts/Support/Renderable.php",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Facade/Twig.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/page.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/index.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/renee-s-headshot.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-event-display.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-ui-redesign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-university-branding.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-video.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/armageddon.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/canvas.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/contemplative.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/corporate-microsite.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/dia-de-los-muertos.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/diversity-inclusion-microsite.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/georgia-aquarium.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/give-video.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/hawaii-oasis.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/helping-in-the-home-depot-garden.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-career-site-redesign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-store-management.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services-microsite.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jazz-poster.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jean-home-depot-associate.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/kids-workshop-rebrand.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/letterpress-blocks.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/lifeguard-station-at-sunset.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-promo-illustration.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-site-redesign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/make-belief-branding.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mexico-cenote.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mix.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moment-vice.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moonshine.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mountain-top-view.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-experience.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-magazine-fall-cover.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/our-stories-the-fabric-of-the-home-depot.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/paris-landscape.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/playing-under-the-pier.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/puerto-rico-time-lapse.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/running-on-the-beach.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/sunset-at-the-beach.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/super-a.blade.twig"
 	],
 	"find":
 	{
@@ -382,6 +386,14 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\*",
+			"",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\vendor\\rcrowe\\twigbridge",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\*",
+			"/resources/views/pages/*",
 			"*",
 			"*.js",
 			"",
@@ -476,6 +488,91 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" =>",
+			"\\$",
+			"$",
+			"->",
+			"@endforeach",
+			"!!",
+			"{--",
+			"{%if",
+			"@else",
+			"@$",
+			"@if (",
+			"@endif",
+			"@endsection",
+			"{% block '",
+			"@section(",
+			"$",
+			"{!! $",
+			"{{--",
+			"@endsection",
+			"@section",
+			"or '",
+			"$",
+			"@if (@$",
+			"@endif",
+			"uri",
+			"(\\{\\% set title \\= )",
+			"title",
+			"(set title)",
+			"(set title \\= )",
+			"(\\{% set title \\= )",
+			"(\\{\\% set title \\= )",
+			"(\\{\\% set title = )",
+			"{{ link }}",
+			"http%3A%2F%2F{{ HTTP_HOST }}/pages/{{ uri }}",
+			"thumbnail",
+			"block(",
+			"{# $_SERVER['HTTP_HOST'] #}",
+			"{{ title }}",
+			"function nest",
+			"class Renderable",
+			"function with",
+			"with",
+			"')",
+			"thumbnail.",
+			"@yield(",
+			"$uri",
+			"block('title')",
+			"{{ $_SERVER['HTTP_HOST'] }}",
+			"@yield(",
+			"block page-content",
+			"thumbnail.",
+			"\\\\'",
+			"@stop",
+			"\\@section\\('(.+)'\\)",
+			"\\@section\\('(.+)', '(.+)'\\)",
+			"@section\\(",
+			"@section\\('(.+)', '(.+)'\\)",
+			"@section",
+			"section",
+			"\\@section",
+			"\\@section\\('(.+)', '(.+)'\\)",
+			"section",
+			"\\@section\\('(.+)', '(.+)'\\)",
+			"@section\\('(.+)', '(.+)'\\)",
+			"{{{",
+			"(isset(",
+			"@",
+			"||",
+			"@",
+			"isset(",
+			"@",
+			"$",
+			"endsection",
+			"' %}",
+			"block '",
+			"% section",
+			") %}",
+			"('",
+			"@",
+			"@extends",
+			"$",
+			"@endif",
+			"@else",
+			"\\@if \\((.+)\\)",
+			"addExtension",
 			"slideshow",
 			"3d",
 			"shix",
@@ -518,99 +615,23 @@
 			"1392701347",
 			"1389082332",
 			",",
-			"1389084927",
-			"1392698316",
-			"1392699906",
-			"1389084657",
-			"1392698464",
-			"1395775420",
-			"snowy",
-			"rainbow-on-the-beach",
-			"pool-party-2014-orange-magazine-home-depot-cover",
-			"club-jazz",
-			"1389217994",
-			"1423844122",
-			",",
-			"1389081390",
-			"the-night-before-christmas",
-			"1393007894",
-			"1389082247",
-			"1389082129",
-			"1392697757",
-			"1392700665",
-			"1389080233",
-			"1389085357",
-			",",
-			"1392698700",
-			"1389081491",
-			"1392697528",
-			"1416428570",
-			"1392666760",
-			"1392697661",
-			"1389081713",
-			"1430776703",
-			",",
-			"1389080146",
-			"1414899749",
-			"1392699247",
-			"1389084821",
-			"1389085172",
-			"1389084554",
-			"1392698212",
-			",",
-			"1389081017",
-			"1392701190",
-			"1389080950",
-			"1392700847",
-			"1424712752",
-			"1389081144",
-			"1393954040",
-			",",
-			"1389080342",
-			"1389081977",
-			"1389082049",
-			"1389081908",
-			"1392759860",
-			"1389081565",
-			"1392760202",
-			"1392697972",
-			",",
-			"1389084440",
-			"1393914991",
-			"1389082516",
-			",",
-			"1393915745",
-			"1389080811.png",
-			"1389080430.jpg",
-			"1395775473.jpg",
-			"1392702825.jpg",
-			",",
-			"1389084314.png",
-			"{{--@section('categories', '?')--}}",
-			"1389085288.jpg",
-			",",
-			"1395774431.jpg",
-			"{{--",
-			"{{--@section('thumbnail.name'",
-			"who-s-next-video",
-			"technology-video",
-			"puerto-rico-time-lapse",
-			"our-stories-the-fabric-of-the-home-depot",
-			"give-video",
-			"customer-service-at-the-home-depot",
-			"{{--@section('thumbnail.name'",
-			"1414899363",
-			"1414899394",
-			"1414899363",
-			"1393915745",
-			"1393915438"
+			"1389084927"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"{% extends template | default('page') %}\\n\\n$1",
+			"block page_content",
+			"thumbnail_",
+			"{% endblock %}",
+			"{% block $1 %}",
+			"{% set $1 = '$2' %}",
+			"{% endif %}",
+			"{% else %}",
+			"{% if $1 %}",
 			"{{--@section('categories', '')--}}",
 			"\"$1\"",
 			"$1\\n\\n{{--@section('categories', '?')--}}",
@@ -691,250 +712,19 @@
 			[
 				{
 					"buffer": 0,
+					"file": "resources/views/cb/layout.twig",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10374,
+						"buffer_size": 3335,
 						"regions":
 						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										235,
-										245
-									],
-									[
-										274,
-										284
-									],
-									[
-										520,
-										530
-									],
-									[
-										610,
-										620
-									],
-									[
-										846,
-										856
-									],
-									[
-										885,
-										895
-									],
-									[
-										1178,
-										1188
-									],
-									[
-										1294,
-										1304
-									],
-									[
-										1602,
-										1612
-									],
-									[
-										1641,
-										1651
-									],
-									[
-										1865,
-										1875
-									],
-									[
-										1904,
-										1914
-									],
-									[
-										2160,
-										2170
-									],
-									[
-										2378,
-										2388
-									],
-									[
-										2417,
-										2427
-									],
-									[
-										2655,
-										2665
-									],
-									[
-										2694,
-										2704
-									],
-									[
-										2992,
-										3002
-									],
-									[
-										3285,
-										3295
-									],
-									[
-										3324,
-										3334
-									],
-									[
-										3582,
-										3592
-									],
-									[
-										3672,
-										3682
-									],
-									[
-										3912,
-										3922
-									],
-									[
-										3951,
-										3961
-									],
-									[
-										4250,
-										4260
-									],
-									[
-										4366,
-										4376
-									],
-									[
-										4693,
-										4703
-									],
-									[
-										4732,
-										4742
-									],
-									[
-										4992,
-										5002
-									],
-									[
-										5082,
-										5092
-									],
-									[
-										5340,
-										5350
-									],
-									[
-										5379,
-										5389
-									],
-									[
-										5679,
-										5689
-									],
-									[
-										5795,
-										5805
-									],
-									[
-										6115,
-										6126
-									],
-									[
-										6364,
-										6375
-									],
-									[
-										6646,
-										6657
-									],
-									[
-										6864,
-										6875
-									],
-									[
-										7127,
-										7138
-									],
-									[
-										7450,
-										7461
-									],
-									[
-										7742,
-										7752
-									],
-									[
-										7781,
-										7791
-									],
-									[
-										8027,
-										8037
-									],
-									[
-										8117,
-										8127
-									],
-									[
-										8351,
-										8361
-									],
-									[
-										8390,
-										8400
-									],
-									[
-										8683,
-										8693
-									],
-									[
-										8799,
-										8809
-									],
-									[
-										9117,
-										9127
-									],
-									[
-										9156,
-										9166
-									],
-									[
-										9428,
-										9438
-									],
-									[
-										9518,
-										9528
-									],
-									[
-										9775,
-										9785
-									],
-									[
-										9814,
-										9824
-									],
-									[
-										10120,
-										10130
-									],
-									[
-										10236,
-										10246
-									]
-								],
-								"scope": ""
-							}
 						},
 						"selection":
 						[
 							[
-								9430,
-								9430
+								497,
+								497
 							]
 						],
 						"settings":
@@ -942,122 +732,21 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"default_dir": "C:\\Users\\Andrew\\Work\\ChadBishop",
-							"detect_indentation": false,
-							"incomplete_sync": null,
-							"line_numbers": false,
-							"output_tag": 8,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 4626.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/quick_page.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 927,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								927,
-								927
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1068,40 +757,136 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"syntax": "Packages/Twig/Syntaxes/HTML (Twig).tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/lb/layout.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1247,
+								1247
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Twig/Syntaxes/HTML (Twig).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1109,19 +894,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/page.tpl.php",
+					"file": "resources/views/lb/partial/header.twig",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15019,
+						"buffer_size": 1443,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4032,
-								4032
+								230,
+								230
 							]
 						],
 						"settings":
@@ -1129,26 +914,21 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1159,41 +939,46 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/Twig/Syntaxes/HTML (Twig).tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1631.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1201,19 +986,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/style.css",
+					"file": "resources/views/lb/index.twig",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45425,
+						"buffer_size": 10325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								43349,
-								43349
+								63,
+								63
 							]
 						],
 						"settings":
@@ -1221,26 +1006,21 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1251,78 +1031,6 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 29689.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/Http/Controllers/SiteController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2723,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2401,
-								2398
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1333,53 +1041,38 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
 							],
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/Twig/Syntaxes/HTML (Twig).tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1235.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1446,6 +1139,26 @@
 		"selected_items":
 		[
 			[
+				"app.",
+				"config\\app.php"
+			],
+			[
+				"twigbridge",
+				"config\\twigbridge.php"
+			],
+			[
+				"illuminate/contracts/support/renderable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Support\\Renderable.php"
+			],
+			[
+				"renderable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Support\\Renderable.php"
+			],
+			[
+				"twig",
+				"vendor\\rcrowe\\twigbridge\\src\\Facade\\Twig.php"
+			],
+			[
 				"controller",
 				"app\\Http\\Controllers\\Controller.php"
 			],
@@ -1504,10 +1217,6 @@
 			[
 				"file",
 				"vendor/league/flysystem/src/File.php"
-			],
-			[
-				"app.",
-				"config/app.php"
 			],
 			[
 				"composer",
@@ -1643,10 +1352,6 @@
 			],
 			[
 				"kenexa",
-				"_lib/parts/search/kenexa.twig"
-			],
-			[
-				"twig",
 				"_lib/parts/search/kenexa.twig"
 			],
 			[
@@ -1944,18 +1649,6 @@
 			[
 				"modal-search",
 				"_asset/css/_my-libs/_inc/_modal-search.less"
-			],
-			[
-				"slim",
-				"_asset/css/_my-libs/_inc/_header.slim.less"
-			],
-			[
-				"header.less",
-				"_asset/css/_my-libs/_inc/_header.less"
-			],
-			[
-				"college-form",
-				"college-form/index.html"
 			]
 		],
 		"width": 0.0
