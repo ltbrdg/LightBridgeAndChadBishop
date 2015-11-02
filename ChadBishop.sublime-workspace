@@ -1,0 +1,1660 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mobile",
+				"mobile_category"
+			],
+			[
+				"$param",
+				"$param_options"
+			],
+			[
+				"Job",
+				"JobSearchQuery"
+			],
+			[
+				"e",
+				"echo	<?php echo … ?>"
+			],
+			[
+				"awar",
+				"awardRight"
+			],
+			[
+				"$modal",
+				"$modal_iframe"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"locked",
+				"locked_nav_setup"
+			],
+			[
+				"kenexa",
+				"kenexaObj"
+			],
+			[
+				"category",
+				"getCategory"
+			],
+			[
+				"link_",
+				"link_positions"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"tag",
+				"tag_selection_elements"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"php",
+				"php"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 1147,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/deploy.rb",
+			"settings":
+			{
+				"buffer_size": 637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/deploy/prod.rb",
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Capfile",
+			"settings":
+			{
+				"buffer_size": 912,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"github",
+				"Github: Open File"
+			],
+			[
+				"blame",
+				"BlameHighlighter: Highlight the code that you have edited"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"git gutter",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"beatif",
+				"HTMLBeautify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"lint",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"instp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrew/Work/ChadBishop",
+		"/Users/andrew/Work/ChadBishop/config"
+	],
+	"file_history":
+	[
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/layout.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/layout.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/partial/header.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/index.twig",
+		"/C/Users/Andrew/Work/ChadBishop/public_lb/.htaccess",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/C/Users/Andrew/Work/ChadBishop/app/Http/Controllers/SiteController.php",
+		"/C/Users/Andrew/Work/ChadBishop/config/app.php",
+		"/C/Users/Andrew/Work/ChadBishop/config/twigbridge.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/contact.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial/social.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/partial/footer.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/partial/footer.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/quick_page.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/quick_page.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/2014-las-vegas-orange-magazine-home-depot-cover.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/armageddon.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/canvas.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/contemplative.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/corporate-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/dia-de-los-muertos.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/diversity-inclusion-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/georgia-aquarium.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/give-video.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/hawaii-oasis.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/helping-in-the-home-depot-garden.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-career-site-redesign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-store-management.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jazz-poster.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jean-home-depot-associate.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/kids-workshop-rebrand.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/letterpress-blocks.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/lifeguard-station-at-sunset.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-promo-illustration.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-site-redesign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/make-belief-branding.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mexico-cenote.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mix.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moment-vice.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moonshine.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mountain-top-view.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-experience.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-magazine-fall-cover.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/our-stories-the-fabric-of-the-home-depot.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/paris-landscape.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/playing-under-the-pier.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/puerto-rico-time-lapse.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/renee-s-headshot.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/running-on-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/sunset-at-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/super-a.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/surfer-silhouette.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-microsite.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/technology-video.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-night-before-christmas.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-orange-experience.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/the-road-less-travelled.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-club-jazz.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-pool-party-2014-orange-magazine-home-depot-cover.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-rainbow-on-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-snowy-castle.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/UNUSED-wind-farm.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/vista-family.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio-valley.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/waipio.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-in-a-winter-wonderland.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/walking-on-the-beach.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/we-run.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/welcome-card.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-event-display.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-ui-redesign.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-university-branding.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-video.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/page.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/world-cup-cancun-mexico.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/you-talking-to-me.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/partial/thumbnail.twig",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Engine/Twig.php",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/laravel/framework/src/Illuminate/Contracts/Support/Renderable.php",
+		"/C/Users/Andrew/Work/ChadBishop/vendor/rcrowe/twigbridge/src/Facade/Twig.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/lb/page.blade.php",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/cb/index.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/renee-s-headshot.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-event-display.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-ui-redesign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-university-branding.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/who-s-next-video.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/armageddon.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/canvas.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/contemplative.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/corporate-microsite.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/customer-service-at-the-home-depot.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/dia-de-los-muertos.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/diversity-inclusion-microsite.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/georgia-aquarium.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/give-video.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/hawaii-oasis.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/helping-in-the-home-depot-garden.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-career-site-redesign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-military-campaign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-depot-store-management.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services-microsite.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/home-services.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jazz-poster.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/jean-home-depot-associate.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/kids-workshop-rebrand.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/letterpress-blocks.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/lifeguard-station-at-sunset.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-promo-illustration.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/light-bridge-site-redesign.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/make-belief-branding.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mexico-cenote.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mix.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moment-vice.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/moonshine.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/mountain-top-view.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-experience.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/orange-magazine-fall-cover.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/our-stories-the-fabric-of-the-home-depot.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/paris-landscape.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/playing-under-the-pier.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/puerto-rico-time-lapse.blade.twig",
+		"/C/Users/Andrew/Work/ChadBishop/resources/views/pages/running-on-the-beach.blade.twig"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\*",
+			"",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\vendor\\rcrowe\\twigbridge",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\*",
+			"/resources/views/pages/*",
+			"*",
+			"*.js",
+			"",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\",
+			"C:\\Users\\Andrew\\Work\\ChadBishop\\resources\\views\\pages\\pages-old\\",
+			"*.php",
+			"*",
+			"*.js",
+			"*.less",
+			"*.html,*.php",
+			"*",
+			"*.less",
+			"*",
+			"*.html,*.php",
+			"*.html",
+			"*",
+			"*.less",
+			"",
+			"*.less",
+			"*",
+			"*.html",
+			"*.less",
+			"*.js",
+			"*",
+			"*.js",
+			"*.less",
+			"*.html",
+			"*.less",
+			"*find*",
+			"*",
+			"*.js",
+			"*.less",
+			"*.html",
+			"*.less",
+			"*",
+			"*.html",
+			"*.less",
+			"*.html",
+			"font-awesome*.less",
+			"font-awesome*.js",
+			"bootstrap*.js",
+			"*.less",
+			"*b*.less",
+			"*bootstrap*.less",
+			"*.less",
+			"",
+			"*.html",
+			"",
+			"*.js",
+			"*.less",
+			"*font-awesome*.less",
+			"*.less",
+			"*font-awesome*.less",
+			"*.less",
+			"*.css",
+			"*.less",
+			"*.html",
+			"*.js",
+			"*.less",
+			"",
+			"*.js",
+			"",
+			"*.less",
+			"",
+			"*.less",
+			"*.js",
+			"*.s",
+			"*.less",
+			"",
+			"theme_add_fancybox",
+			"",
+			"*.js",
+			"",
+			"*.less",
+			"",
+			"*.html",
+			"*.less",
+			"/Users/andrew/Work/THDCareersProduction",
+			"",
+			"*.css",
+			"*.less",
+			"*.js",
+			"",
+			"*.html,*.php",
+			"",
+			"*.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                                   │ ",
+			" ",
+			"                                   │",
+			"                                   │ ",
+			"                                       │ ",
+			"LightBridge",
+			" =>",
+			"\\$",
+			"$",
+			"->",
+			"@endforeach",
+			"!!",
+			"{--",
+			"{%if",
+			"@else",
+			"@$",
+			"@if (",
+			"@endif",
+			"@endsection",
+			"{% block '",
+			"@section(",
+			"$",
+			"{!! $",
+			"{{--",
+			"@endsection",
+			"@section",
+			"or '",
+			"$",
+			"@if (@$",
+			"@endif",
+			"uri",
+			"(\\{\\% set title \\= )",
+			"title",
+			"(set title)",
+			"(set title \\= )",
+			"(\\{% set title \\= )",
+			"(\\{\\% set title \\= )",
+			"(\\{\\% set title = )",
+			"{{ link }}",
+			"http%3A%2F%2F{{ HTTP_HOST }}/pages/{{ uri }}",
+			"thumbnail",
+			"block(",
+			"{# $_SERVER['HTTP_HOST'] #}",
+			"{{ title }}",
+			"function nest",
+			"class Renderable",
+			"function with",
+			"with",
+			"')",
+			"thumbnail.",
+			"@yield(",
+			"$uri",
+			"block('title')",
+			"{{ $_SERVER['HTTP_HOST'] }}",
+			"@yield(",
+			"block page-content",
+			"thumbnail.",
+			"\\\\'",
+			"@stop",
+			"\\@section\\('(.+)'\\)",
+			"\\@section\\('(.+)', '(.+)'\\)",
+			"@section\\(",
+			"@section\\('(.+)', '(.+)'\\)",
+			"@section",
+			"section",
+			"\\@section",
+			"\\@section\\('(.+)', '(.+)'\\)",
+			"section",
+			"\\@section\\('(.+)', '(.+)'\\)",
+			"@section\\('(.+)', '(.+)'\\)",
+			"{{{",
+			"(isset(",
+			"@",
+			"||",
+			"@",
+			"isset(",
+			"@",
+			"$",
+			"endsection",
+			"' %}",
+			"block '",
+			"% section",
+			") %}",
+			"('",
+			"@",
+			"@extends",
+			"$",
+			"@endif",
+			"@else",
+			"\\@if \\((.+)\\)",
+			"addExtension",
+			"slideshow",
+			"3d",
+			"shix",
+			"&",
+			"href=\"http%3A%2F%2F",
+			"http%3A%2F%2Fwww",
+			"http%3A%2F%2Fwww.",
+			"http:%2F",
+			"/image/small/",
+			"://",
+			"$_SERVER['HTTP_HOST'] }}",
+			"$url",
+			"&",
+			"Who%27s+Next%3F+UI+Redesign",
+			"http%3A%2F%2Fltbrdg.com%2Fshare%2Fportfolio%2Fwho-s-next-ui-redesign",
+			"http%3A%2F%2Fltbrdg.com%2Fshare%2Fportfolio%2Fwho-s-next-ui-redesign&amp;",
+			"\" . \"",
+			"http%3A%2F%2Fltbrdg",
+			"://",
+			"http",
+			" href=",
+			"1392699906",
+			"1392699247",
+			"1416428570.",
+			"1392701347",
+			"1423844122",
+			"1416428570",
+			"1414899749",
+			"workShowCase",
+			"ShowCase(",
+			"isotope",
+			"1389085049",
+			"1389079862",
+			"wind-farm",
+			"1392698270",
+			"1389082458",
+			"1389081317"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"{% extends template | default('page') %}\\n\\n$1",
+			"block page_content",
+			"thumbnail_",
+			"{% endblock %}",
+			"{% block $1 %}",
+			"{% set $1 = '$2' %}",
+			"{% endif %}",
+			"{% else %}",
+			"{% if $1 %}",
+			"{{--@section('categories', '')--}}",
+			"\"$1\"",
+			"$1\\n\\n{{--@section('categories', '?')--}}",
+			"$1\\n\\n@section('thumbnail.size', 'small')\\n{{--@section('thumbnail.name', '')--}}$2",
+			"/image/original/",
+			"@section('thumbnail.size', 'small')\\n@section('thumbnail.name', '$1')\\n\\n@section('page-content')\\n<img src=\"/thumb/o/$1\"",
+			"\\n@stop",
+			"@section('page-content')\\n",
+			"<div class=\"inner-block\">",
+			"",
+			"@section('title', '$1\\\\'$2')",
+			"@section('title', '$1\\'$2')",
+			"\\n",
+			"@section('title', '$1')",
+			"}else{",
+			"){",
+			" {",
+			"{",
+			"category",
+			"vimeoID",
+			"$1\", \"$2",
+			"&",
+			"'",
+			"@imagePath+'/shared/bkg-dark-vert-repeat.jpg'",
+			"@imagePath+'/shared/bkg-vert-repeat.jpg'",
+			"@imagePath",
+			"@ImagePath+'/shared/bkg-vert-repeat.jpg'",
+			"@ImagePath+'/shared/bkg-dark-vert-repeat.jpg'",
+			"@mobile",
+			"Home Services Hiring Event",
+			"Cashier",
+			"",
+			"\"",
+			"$1",
+			"$1:00$2 - $3:00$4",
+			"<thing><![CDATA[$1]]></thing>",
+			"$1",
+			"extraPadding",
+			"<p class=\"bigger\"",
+			"$config['navigation-active'] = \"culture\";",
+			"$config['navigation-active'] = \"fit\";",
+			"scripts.html",
+			"href=\"/military-commitment\"",
+			"@commitmentOrange",
+			"]]>",
+			"\\n",
+			"\\n\\n",
+			"@thdLightOrange",
+			"&:hover",
+			"&.main",
+			"Apply Now",
+			"]]>",
+			"<![CDATA[",
+			"&amp;",
+			"</division>",
+			"\\n",
+			"\\n\\n",
+			"text-indent:-1000%",
+			"theme_add_fancybox",
+			"",
+			".page-header",
+			"#page-header",
+			"",
+			"\"http://",
+			"//"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								923,
+								923
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/deploy.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/deploy/prod.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Capfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ChadBishop.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"app.",
+				"config\\app.php"
+			],
+			[
+				"twigbridge",
+				"config\\twigbridge.php"
+			],
+			[
+				"illuminate/contracts/support/renderable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Support\\Renderable.php"
+			],
+			[
+				"renderable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Support\\Renderable.php"
+			],
+			[
+				"twig",
+				"vendor\\rcrowe\\twigbridge\\src\\Facade\\Twig.php"
+			],
+			[
+				"controller",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				".js",
+				"public_lb\\js\\index.js"
+			],
+			[
+				"chadcontro",
+				"app\\Http\\Controllers\\ChadBishopController.php"
+			],
+			[
+				"lightcontroller",
+				"app\\Http\\Controllers\\LightBridgeController.php"
+			],
+			[
+				"chadbishop",
+				"app\\Http\\Controllers\\ChadBishopController.php"
+			],
+			[
+				"router",
+				"vendor\\symfony\\routing\\Router.php"
+			],
+			[
+				"thumbnail",
+				"resources/views/partial/thumbnail.blade.php"
+			],
+			[
+				"chad",
+				"app/Http/Controllers/ChadBishopController.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"image",
+				"vendor/intervention/image/src/Intervention/Image/Image.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"handler",
+				"vendor/league/flysystem/src/Handler.php"
+			],
+			[
+				"file",
+				"vendor/league/flysystem/src/File.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"routeservice",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"imageservice",
+				"vendor/marcha/image/src/KevBaldwyn/Image/Providers/Laravel/ImageServiceProvider.php"
+			],
+			[
+				"layout",
+				"resources/views/cb/layout.blade.php"
+			],
+			[
+				"welcome.blade",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"path",
+				"vendor/symfony/finder/Iterator/PathFilterIterator.php"
+			],
+			[
+				"master",
+				"app/views/site_cb/layouts/master.blade.php"
+			],
+			[
+				"filters",
+				"app/filters.php"
+			],
+			[
+				"global",
+				"app/start/global.php"
+			],
+			[
+				"data.json",
+				"public_CB/js/showcase-data.json"
+			],
+			[
+				"cbcontro",
+				"app/controllers/CBController.php"
+			],
+			[
+				"viewfactory",
+				"vendor/laravel/framework/src/Illuminate/View/Factory.php"
+			],
+			[
+				"quick",
+				"app/views/site_cb/partial/quick_page.php"
+			],
+			[
+				"cbcontroller",
+				"app/controllers/CBController.php"
+			],
+			[
+				"1393915745-dia-de-los-muertos",
+				"share_pages/html/1393915745-dia-de-los-muertos.html"
+			],
+			[
+				"admincontroller",
+				"app/controllers/AdminController.php"
+			],
+			[
+				"lbcontroller",
+				"app/controllers/LBSController.php"
+			],
+			[
+				"showcase",
+				"public_LBS/js/showcase-data.json"
+			],
+			[
+				"showcase-data",
+				"public_CB/js/showcase-data.json"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"elastic",
+				"config/initializers/elasticsearch.rb"
+			],
+			[
+				"ignore",
+				".gitignore"
+			],
+			[
+				"scraper",
+				"lib/tasks/scraper.rake"
+			],
+			[
+				"environ",
+				"config/environment.rb"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"jobphp",
+				"_lib/common/search/JobSearch.php"
+			],
+			[
+				"migrate-old",
+				"_asset/css/migrate-old/app.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"management",
+				"find-your-fit/distribution-management.html"
+			],
+			[
+				"eventcalend",
+				"_asset/js/migrate-old/eventCalendar.js"
+			],
+			[
+				"event",
+				"event-calendar/event-calendar.html"
+			],
+			[
+				"hourly",
+				"find-your-fit/distribution-hourly.html"
+			],
+			[
+				"distributon",
+				"find-your-fit/distribution-center.html"
+			],
+			[
+				"kenexa",
+				"_lib/parts/search/kenexa.twig"
+			],
+			[
+				"_lib/common/lessphp/new/lib/less/",
+				"_lib/common/lessphp/new/lib/Less/Autoloader.php"
+			],
+			[
+				".twig",
+				"_lib/parts/search/kenexa.twig"
+			],
+			[
+				"template",
+				"jobs/page_template.php"
+			],
+			[
+				"theme",
+				"_lib/theme.inc.php"
+			],
+			[
+				"meta",
+				"_lib/parts/meta.html"
+			],
+			[
+				"scripts",
+				"_lib/parts/scripts.html"
+			],
+			[
+				"config",
+				"_lib/config.inc.php"
+			],
+			[
+				"job-search",
+				"_asset/js/_my-libs/job-search.js"
+			],
+			[
+				"jobsearch",
+				"_lib/common/search/JobSearchQuery.php"
+			],
+			[
+				"jobjs",
+				"_asset/js/_my-libs/job-search.js"
+			],
+			[
+				"page",
+				"jobs/page_template.php"
+			],
+			[
+				"jobsindex.",
+				"jobs/index.php"
+			],
+			[
+				"hy",
+				"_asset/css/_my-libs/hybrid.less"
+			],
+			[
+				"headerjs",
+				"_asset/js/header-footer.js"
+			],
+			[
+				"next.js",
+				"_asset/js/developing-potential/next.js"
+			],
+			[
+				"next",
+				"developing-potential/next.html"
+			],
+			[
+				"videos.php",
+				"_lib/common/video/videos.php"
+			],
+			[
+				"hybrid",
+				"_asset/css/_my-libs/hybrid.less"
+			],
+			[
+				"videogallery_resp",
+				"_asset/css/migrate-old/videogallery_resp.css"
+			],
+			[
+				"nextless",
+				"_asset/css/developing-potential/next.less"
+			],
+			[
+				"carousel.tw",
+				"_lib/parts/video/carousel.twig"
+			],
+			[
+				"video",
+				"_lib/common/video/videos.php"
+			],
+			[
+				"carousel",
+				"_lib/common/video/carousel.php"
+			],
+			[
+				".mustache",
+				"~/Work/THDCareersProduction/_lib/parts/search/kenexa.mustache"
+			],
+			[
+				"videomust",
+				"_lib/parts/video/carousel.mustache"
+			],
+			[
+				"vimeojson",
+				"_lib/data/json/vimeo-videos.json"
+			],
+			[
+				"callcenter",
+				"find-your-fit/call-center.html"
+			],
+			[
+				"videoless",
+				"_asset/css/_my-libs/_inc/_video-carousel.less"
+			],
+			[
+				"kenesa",
+				"_asset/js/_my-libs/kenexa-search.js"
+			],
+			[
+				"elasticsearchclient",
+				"_lib/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php"
+			],
+			[
+				"jobs/",
+				"jobs/index.php"
+			],
+			[
+				"custom",
+				"_asset/css/_my-libs/_inc/_custom-variables.less"
+			],
+			[
+				"header.slim",
+				"_lib/parts/header.slim.html"
+			],
+			[
+				"header-footer",
+				"_asset/js/header-footer.js"
+			],
+			[
+				"carousel.php",
+				"_lib/common/video/carousel.php"
+			],
+			[
+				"next.less",
+				"_asset/css/developing-potential/next.less"
+			],
+			[
+				"militiary",
+				"_asset/css/military-commitment/military-commitment.less"
+			],
+			[
+				"vimeo",
+				"_lib/common/video/vimeo-api.php"
+			],
+			[
+				"militaryjs",
+				"_asset/js/military-commitment/military-commitment.js"
+			],
+			[
+				"militaryindex",
+				"military-commitment/index.html"
+			],
+			[
+				"vimejson",
+				"_lib/data/json/vimeo-videoID.json"
+			],
+			[
+				"vimi",
+				"_lib/data/json/vimeo-videoID.json"
+			],
+			[
+				"vimeopa",
+				"_lib/common/video/vimeo-api.php"
+			],
+			[
+				"videos",
+				"_lib/data/xml/videos.xml"
+			],
+			[
+				"_bootstrap-modals.less",
+				"_asset/css/_my-libs/_framework/_bootstrap-modals.less"
+			],
+			[
+				"autoload_real",
+				"_lib/vendor/composer/autoload_real.php"
+			],
+			[
+				"autoload",
+				"_lib/vendor/autoload.php"
+			],
+			[
+				"lessc",
+				"_lib/common/lessphp/lessc.inc.php"
+			],
+			[
+				"index.ph",
+				"jobs/index.php"
+			],
+			[
+				"main.css",
+				"_asset/css/migrate-old/main.css"
+			],
+			[
+				"foundation",
+				"_asset/css/migrate-old/foundation.css"
+			],
+			[
+				"headerless",
+				"_asset/css/_my-libs/_inc/_header.less"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"footer",
+				"_asset/css/_my-libs/_inc/_footer.less"
+			],
+			[
+				"homepage",
+				"_asset/css/homepage/homepage.less"
+			],
+			[
+				"jib",
+				"_asset/css/jobs-in-bloom/jobs-in-bloom.less"
+			],
+			[
+				"footerless",
+				"_asset/css/_my-libs/_inc/_footer.less"
+			],
+			[
+				"military",
+				"_asset/css/military-commitment/military-commitment.less"
+			],
+			[
+				"jibless",
+				"_asset/css/jobs-in-bloom/jobs-in-bloom.less"
+			],
+			[
+				"home",
+				"_asset/css/homepage/homepage.less"
+			],
+			[
+				"hybrid.",
+				"_asset/css/_my-libs/hybrid.less"
+			],
+			[
+				".htaccess",
+				".htaccess"
+			],
+			[
+				"military.less",
+				"_asset/css/military-commitment/military-commitment.less"
+			],
+			[
+				"modal-search.js",
+				"_asset/js/_my-libs/modal-search.js"
+			],
+			[
+				"header",
+				"_asset/css/_my-libs/_inc/_header.less"
+			],
+			[
+				"jibhtml",
+				"jobs-in-bloom/index.html"
+			],
+			[
+				"homepage.js",
+				"_asset/js/homepage/homepage.js"
+			],
+			[
+				"modals.less",
+				"_asset/css/_libs/bootstrap/modals.less"
+			],
+			[
+				"bootstrap-modal",
+				"_asset/js/_libs/bootstrap/bootstrap-modal.js"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				".htacces",
+				"kenexa-demo/.htaccess"
+			],
+			[
+				"video.h",
+				"_lib/parts/modals/video.html"
+			],
+			[
+				"mainless",
+				"_asset/css/_my-libs/main.less"
+			],
+			[
+				"modal-search",
+				"_asset/css/_my-libs/_inc/_modal-search.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Work/LightBridge/LightBridge.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
