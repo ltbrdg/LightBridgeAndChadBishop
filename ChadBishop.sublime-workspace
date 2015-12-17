@@ -83,6 +83,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "storage/framework/views/twig/8d/8de875dde76a3dbd22e169f01f1678058b7bf0bcffc9ca54907e9a19b661fb80.php",
+			"settings":
+			{
+				"buffer_size": 7085,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/lb/partial/footer.twig",
+			"settings":
+			{
+				"buffer_size": 2563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chadbishop/Sites/careers.homedepot.dev/contact-center/index.html",
+			"settings":
+			{
+				"buffer_size": 28268,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -411,6 +435,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"92357",
+			"Girard",
 			", null],",
 			" 0",
 			"function canvas",
@@ -536,9 +562,7 @@
 			"(",
 			"\">",
 			"option value=\"",
-			"</option",
-			"><",
-			"services"
+			"</option"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -609,6 +633,88 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "storage/framework/views/twig/8d/8de875dde76a3dbd22e169f01f1678058b7bf0bcffc9ca54907e9a19b661fb80.php",
+					"settings":
+					{
+						"buffer_size": 7085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2041,
+								2041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 441.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/lb/partial/footer.twig",
+					"settings":
+					{
+						"buffer_size": 2563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1134,
+								1134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/chadbishop/Sites/careers.homedepot.dev/contact-center/index.html",
+					"settings":
+					{
+						"buffer_size": 28268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4713.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1200,6 +1306,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 353.0,
+	"side_bar_width": 277.0,
 	"status_bar_visible": true
 }
