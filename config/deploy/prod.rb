@@ -1,4 +1,4 @@
-server '104.236.162.19', user: 'deploy', roles: %w{web app db}
+server '104.236.149.217', user: 'deploy', roles: %w{web app db}
 
 set :ssh_options, {
   port: 2229
