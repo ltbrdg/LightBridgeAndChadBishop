@@ -1,8 +1,8 @@
-server '104.236.162.19', user: 'deploy', roles: %w{web app db}
+server '107.170.202.132', user: 'deploy', roles: %w{web app db}
 
-set :ssh_options, {
-  port: 2229
-}
+# set :ssh_options, {
+#   port: 2229
+# }
 set :tmp_dir, '/home/deploy/tmp'
 set :branch, 'master'
 set :deploy_to, '/home/deploy/cap_chadbishop_ltbrdg'
