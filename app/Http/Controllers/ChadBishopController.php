@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 class ChadBishopController extends SiteController{
 	protected $creative_items = [
+		"dreamer",
 		"who-s-next-ui-redesign",
 		"our-stories-the-fabric-of-the-home-depot",
 		"home-services-microsite",
@@ -27,7 +28,6 @@ class ChadBishopController extends SiteController{
 		"who-s-next-university-branding",
 		"the-orange-experience",
 		"home-depot-career-site-redesign",
-		"dreamer",
 	];
 
 	protected $photography_items = [
