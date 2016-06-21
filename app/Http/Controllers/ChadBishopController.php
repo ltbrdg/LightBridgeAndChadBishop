@@ -27,6 +27,7 @@ class ChadBishopController extends SiteController{
 		"who-s-next-university-branding",
 		"the-orange-experience",
 		"home-depot-career-site-redesign",
+		"dreamer",
 	];
 
 	protected $photography_items = [
