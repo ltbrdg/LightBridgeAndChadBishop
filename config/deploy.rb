@@ -5,7 +5,7 @@ set :application, 'ChadBishop'
 set :repo_url, 'git@github.com:ltbrdg/ChadBishop.git'
 # set :linked_files, %w{_lib/config.database.php}
 # set :linked_dirs, %w{upload/college-form-resumes}
-set :linked_dirs, %w{vendor}
+set :linked_dirs, %w{vendor storage}
 
 # set :linked_dirs, %w{share_pages}
 # set :linked_files, %w{public_lb/js/showcase-data.json}
