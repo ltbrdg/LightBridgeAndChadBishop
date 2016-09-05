@@ -23,6 +23,7 @@ $cb_routes = function(){
 };
 
 Route::group(array("domain" => "chadbishop.com"), $cb_routes);
+Route::group(array("domain" => "{sub}.chadbishop.com"), $cb_routes);
 Route::group(array("domain" => "chadbishop.local"), $cb_routes);
 
 $lb_routes = function(){
@@ -38,4 +39,5 @@ $lb_routes = function(){
 };
 
 Route::group(array("domain" => "ltbrdg.com"), $lb_routes);
+Route::group(array("domain" => "{sub}.ltbrdg.com"), $lb_routes);
 Route::group(array("domain" => "ltbrdg.local"), $lb_routes);
